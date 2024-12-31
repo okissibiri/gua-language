@@ -1,0 +1,1898 @@
+[
+    {
+        "id": "0001",
+        "word": "bo",
+        "phonetic": "dy",
+        "category": ""
+    },
+    {
+        "id": "0002",
+        "word": "skin",
+        "phonetic": "( o f ma n)",
+        "category": ""
+    },
+    {
+        "id": "0003",
+        "word": "head",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0004",
+        "word": "fo",
+        "phonetic": "r ehead",
+        "category": ""
+    },
+    {
+        "id": "0005",
+        "word": "fa",
+        "phonetic": "ce",
+        "category": ""
+    },
+    {
+        "id": "0006",
+        "word": "e",
+        "phonetic": "ye",
+        "category": ""
+    },
+    {
+        "id": "0007",
+        "word": "e",
+        "phonetic": "ye br o w",
+        "category": ""
+    },
+    {
+        "id": "0008",
+        "word": "e",
+        "phonetic": "ye lid",
+        "category": ""
+    },
+    {
+        "id": "0011",
+        "word": "no",
+        "phonetic": "se",
+        "category": ""
+    },
+    {
+        "id": "0014",
+        "word": "cheek",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0015",
+        "word": "mo",
+        "phonetic": "ut h",
+        "category": ""
+    },
+    {
+        "id": "0017",
+        "word": "to",
+        "phonetic": "ngue",
+        "category": ""
+    },
+    {
+        "id": "0018",
+        "word": "toot",
+        "phonetic": "h",
+        "category": ""
+    },
+    {
+        "id": "0021",
+        "word": "jaw",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0022",
+        "word": "chin",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0023",
+        "word": "neck",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0025",
+        "word": "t",
+        "phonetic": "hr o at",
+        "category": ""
+    },
+    {
+        "id": "0027",
+        "word": "ha",
+        "phonetic": "ir  ( o f head)",
+        "category": ""
+    },
+    {
+        "id": "0028",
+        "word": "bear",
+        "phonetic": "d",
+        "category": ""
+    },
+    {
+        "id": "0029",
+        "word": "ha",
+        "phonetic": "ir  ( o f bo d y)",
+        "category": ""
+    },
+    {
+        "id": "0031",
+        "word": "sho",
+        "phonetic": "ulder",
+        "category": ""
+    },
+    {
+        "id": "0033",
+        "word": "chest",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0034",
+        "word": "br",
+        "phonetic": "east",
+        "category": ""
+    },
+    {
+        "id": "0035",
+        "word": "side",
+        "phonetic": "( o f bo d y)",
+        "category": ""
+    },
+    {
+        "id": "0036",
+        "word": "waist",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0037",
+        "word": "nave",
+        "phonetic": "l",
+        "category": ""
+    },
+    {
+        "id": "0040",
+        "word": "sto",
+        "phonetic": "mac h ( int er na l)",
+        "category": ""
+    },
+    {
+        "id": "0041",
+        "word": "wo",
+        "phonetic": "mb",
+        "category": ""
+    },
+    {
+        "id": "0042",
+        "word": "back",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0044",
+        "word": "butt",
+        "phonetic": "o ck",
+        "category": ""
+    },
+    {
+        "id": "0045",
+        "word": "anus",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0046",
+        "word": "penis",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0047",
+        "word": "t",
+        "phonetic": "est ic le",
+        "category": ""
+    },
+    {
+        "id": "0048",
+        "word": "vag",
+        "phonetic": "ina",
+        "category": ""
+    },
+    {
+        "id": "0050",
+        "word": "ar",
+        "phonetic": "m",
+        "category": ""
+    },
+    {
+        "id": "0051",
+        "word": "ar",
+        "phonetic": "mp it",
+        "category": ""
+    },
+    {
+        "id": "0053",
+        "word": "e",
+        "phonetic": "lbo w",
+        "category": ""
+    },
+    {
+        "id": "0055",
+        "word": "wr",
+        "phonetic": "ist",
+        "category": ""
+    },
+    {
+        "id": "0056",
+        "word": "hand",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0057",
+        "word": "fist",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0058",
+        "word": "palm",
+        "phonetic": "( o f ha nd)",
+        "category": ""
+    },
+    {
+        "id": "0059",
+        "word": "finger",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0060",
+        "word": "t",
+        "phonetic": "hu mb",
+        "category": ""
+    },
+    {
+        "id": "0062",
+        "word": "finger",
+        "phonetic": "na il",
+        "category": ""
+    },
+    {
+        "id": "0064",
+        "word": "hip",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0065",
+        "word": "t",
+        "phonetic": "hig h",
+        "category": ""
+    },
+    {
+        "id": "0066",
+        "word": "knee",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0070",
+        "word": "fo",
+        "phonetic": "ot",
+        "category": ""
+    },
+    {
+        "id": "0073",
+        "word": "to",
+        "phonetic": "e",
+        "category": ""
+    },
+    {
+        "id": "0074",
+        "word": "bo",
+        "phonetic": "ne",
+        "category": ""
+    },
+    {
+        "id": "0076",
+        "word": "ske",
+        "phonetic": "let o n",
+        "category": ""
+    },
+    {
+        "id": "0077",
+        "word": "sku",
+        "phonetic": "ll",
+        "category": ""
+    },
+    {
+        "id": "0080",
+        "word": "r",
+        "phonetic": "ib",
+        "category": ""
+    },
+    {
+        "id": "0081",
+        "word": "br",
+        "phonetic": "a in",
+        "category": ""
+    },
+    {
+        "id": "0082",
+        "word": "hear",
+        "phonetic": "t",
+        "category": ""
+    },
+    {
+        "id": "0083",
+        "word": "liver",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0085",
+        "word": "lu",
+        "phonetic": "ng",
+        "category": ""
+    },
+    {
+        "id": "0086",
+        "word": "int",
+        "phonetic": "est ine s",
+        "category": ""
+    },
+    {
+        "id": "0091",
+        "word": "ve",
+        "phonetic": "in",
+        "category": ""
+    },
+    {
+        "id": "0093",
+        "word": "sa",
+        "phonetic": "liva",
+        "category": ""
+    },
+    {
+        "id": "0108",
+        "word": "blo",
+        "phonetic": "o d",
+        "category": ""
+    },
+    {
+        "id": "0101",
+        "word": "ur",
+        "phonetic": "ine",
+        "category": ""
+    },
+    {
+        "id": "0102",
+        "word": "excr",
+        "phonetic": "e me nt ,  faece s",
+        "category": ""
+    },
+    {
+        "id": "0107",
+        "word": "yaw",
+        "phonetic": "n",
+        "category": ""
+    },
+    {
+        "id": "0108",
+        "word": "sno",
+        "phonetic": "r e",
+        "category": ""
+    },
+    {
+        "id": "0119",
+        "word": "ur",
+        "phonetic": "inat e",
+        "category": ""
+    },
+    {
+        "id": "0121",
+        "word": "defecat",
+        "phonetic": "e",
+        "category": ""
+    },
+    {
+        "id": "0128",
+        "word": "sleep",
+        "phonetic": "( v)",
+        "category": ""
+    },
+    {
+        "id": "0129",
+        "word": "dr",
+        "phonetic": "eam ( n)",
+        "category": ""
+    },
+    {
+        "id": "0134",
+        "word": "hear",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0135",
+        "word": "list",
+        "phonetic": "e n",
+        "category": ""
+    },
+    {
+        "id": "0136",
+        "word": "s",
+        "phonetic": "me ll ( v)",
+        "category": ""
+    },
+    {
+        "id": "0139",
+        "word": "t",
+        "phonetic": "ast e",
+        "category": ""
+    },
+    {
+        "id": "0140",
+        "word": "eat",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0141",
+        "word": "bit",
+        "phonetic": "e ( v)",
+        "category": ""
+    },
+    {
+        "id": "0143",
+        "word": "chew",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0145",
+        "word": "swa",
+        "phonetic": "llo w",
+        "category": ""
+    },
+    {
+        "id": "0146",
+        "word": "cho",
+        "phonetic": "ke",
+        "category": ""
+    },
+    {
+        "id": "0147",
+        "word": "lick",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0148",
+        "word": "suck",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0149",
+        "word": "dr",
+        "phonetic": "ink",
+        "category": ""
+    },
+    {
+        "id": "0150",
+        "word": "sit",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0151",
+        "word": "r",
+        "phonetic": "ise up ( int r )    k",
+        "category": ""
+    },
+    {
+        "id": "0154",
+        "word": "walk",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0158",
+        "word": "cr",
+        "phonetic": "awl",
+        "category": ""
+    },
+    {
+        "id": "0159",
+        "word": "r",
+        "phonetic": "un",
+        "category": ""
+    },
+    {
+        "id": "0160",
+        "word": "sw",
+        "phonetic": "im",
+        "category": ""
+    },
+    {
+        "id": "0161",
+        "word": "ju",
+        "phonetic": "mp ( v)",
+        "category": ""
+    },
+    {
+        "id": "0169",
+        "word": "st",
+        "phonetic": "and",
+        "category": ""
+    },
+    {
+        "id": "0171",
+        "word": "lea",
+        "phonetic": "n aga inst  ( int r )     kp",
+        "category": ""
+    },
+    {
+        "id": "0172",
+        "word": "be",
+        "phonetic": "nd do wn,  stoo p",
+        "category": ""
+    },
+    {
+        "id": "0173",
+        "word": "bo",
+        "phonetic": "w ( as in gr eet ing)     w",
+        "category": ""
+    },
+    {
+        "id": "0175",
+        "word": "squat",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0178",
+        "word": "(",
+        "phonetic": "be)  hot (o f per so n)     j",
+        "category": ""
+    },
+    {
+        "id": "0179",
+        "word": "(",
+        "phonetic": "be)  hungr y,  hu nger  ( v)",
+        "category": ""
+    },
+    {
+        "id": "0181",
+        "word": "(",
+        "phonetic": "be) t hir st y,  t hir st  ( v)",
+        "category": ""
+    },
+    {
+        "id": "0182",
+        "word": "(",
+        "phonetic": "be)  dr unk",
+        "category": ""
+    },
+    {
+        "id": "0183",
+        "word": "(",
+        "phonetic": "be) t ir ed",
+        "category": ""
+    },
+    {
+        "id": "0184",
+        "word": "(",
+        "phonetic": "be)  s leep y     d",
+        "category": ""
+    },
+    {
+        "id": "0185",
+        "word": "r",
+        "phonetic": "est",
+        "category": ""
+    },
+    {
+        "id": "0189",
+        "word": "hu",
+        "phonetic": "mp ( o f hu nc hback)",
+        "category": ""
+    },
+    {
+        "id": "0190",
+        "word": "(",
+        "phonetic": "be)  ba ld",
+        "category": ""
+    },
+    {
+        "id": "0191",
+        "word": "(",
+        "phonetic": "be)  blind",
+        "category": ""
+    },
+    {
+        "id": "0193",
+        "word": "(",
+        "phonetic": "be) t hin",
+        "category": ""
+    },
+    {
+        "id": "0194",
+        "word": "(",
+        "phonetic": "be)  impo t ent     m",
+        "category": ""
+    },
+    {
+        "id": "0195",
+        "word": "bar",
+        "phonetic": "r en wo ma n",
+        "category": ""
+    },
+    {
+        "id": "0196",
+        "word": "blind",
+        "phonetic": "per so n",
+        "category": ""
+    },
+    {
+        "id": "0197",
+        "word": "dea",
+        "phonetic": "f ( mut e)  per so n",
+        "category": ""
+    },
+    {
+        "id": "0199",
+        "word": "cr",
+        "phonetic": "ipp le ( n)",
+        "category": ""
+    },
+    {
+        "id": "0200",
+        "word": "dwar",
+        "phonetic": "f",
+        "category": ""
+    },
+    {
+        "id": "0202",
+        "word": "st",
+        "phonetic": "upid per so n",
+        "category": ""
+    },
+    {
+        "id": "0204",
+        "word": "mad",
+        "phonetic": "per so n",
+        "category": ""
+    },
+    {
+        "id": "0205",
+        "word": "(",
+        "phonetic": "be)  hea lt hy,  ( be)  we ll",
+        "category": ""
+    },
+    {
+        "id": "0207",
+        "word": "hur",
+        "phonetic": "t o nese lf",
+        "category": ""
+    },
+    {
+        "id": "0209",
+        "word": "med",
+        "phonetic": "ic ine",
+        "category": ""
+    },
+    {
+        "id": "0210",
+        "word": "get",
+        "phonetic": "well,  r eco ver",
+        "category": ""
+    },
+    {
+        "id": "0213",
+        "word": "swe",
+        "phonetic": "lling",
+        "category": ""
+    },
+    {
+        "id": "0216",
+        "word": "bur",
+        "phonetic": "n ( n)",
+        "category": ""
+    },
+    {
+        "id": "0217",
+        "word": "go",
+        "phonetic": "it er",
+        "category": ""
+    },
+    {
+        "id": "0218",
+        "word": "her",
+        "phonetic": "nia ( u mbil ica l)",
+        "category": ""
+    },
+    {
+        "id": "0219",
+        "word": "ulcer",
+        "phonetic": "( leg)",
+        "category": ""
+    },
+    {
+        "id": "0220",
+        "word": "wo",
+        "phonetic": "und,  sor e",
+        "category": ""
+    },
+    {
+        "id": "0225",
+        "word": "elep",
+        "phonetic": "ha nt ia s is",
+        "category": ""
+    },
+    {
+        "id": "0227",
+        "word": "lepr",
+        "phonetic": "o s y",
+        "category": ""
+    },
+    {
+        "id": "0228",
+        "word": "ma",
+        "phonetic": "lar ia ( fe ver )",
+        "category": ""
+    },
+    {
+        "id": "0230",
+        "word": "pain",
+        "phonetic": "( n)",
+        "category": ""
+    },
+    {
+        "id": "0233",
+        "word": "vo",
+        "phonetic": "mit  ( v)",
+        "category": ""
+    },
+    {
+        "id": "0234",
+        "word": "sto",
+        "phonetic": "ma c hac he,  upset  sto mac h",
+        "category": ""
+    },
+    {
+        "id": "0235",
+        "word": "headac",
+        "phonetic": "he",
+        "category": ""
+    },
+    {
+        "id": "0236",
+        "word": "diar",
+        "phonetic": "r hea",
+        "category": ""
+    },
+    {
+        "id": "0238",
+        "word": "life",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0239",
+        "word": "(",
+        "phonetic": "be)  a live",
+        "category": ""
+    },
+    {
+        "id": "0240",
+        "word": "me",
+        "phonetic": "nst r ua l per io d",
+        "category": ""
+    },
+    {
+        "id": "0241",
+        "word": "(",
+        "phonetic": "be)  pr egnant",
+        "category": ""
+    },
+    {
+        "id": "0242",
+        "word": "misc",
+        "phonetic": "ar r ia ge",
+        "category": ""
+    },
+    {
+        "id": "0244",
+        "word": "bear",
+        "phonetic": "( child) ,  g ive bir t h     k",
+        "category": ""
+    },
+    {
+        "id": "0245",
+        "word": "(",
+        "phonetic": "be)  bo r n",
+        "category": ""
+    },
+    {
+        "id": "0246",
+        "word": "(",
+        "phonetic": "be)  yo ung",
+        "category": ""
+    },
+    {
+        "id": "0247",
+        "word": "gro",
+        "phonetic": "w up",
+        "category": ""
+    },
+    {
+        "id": "0249",
+        "word": "die",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0250",
+        "word": "deat",
+        "phonetic": "h",
+        "category": ""
+    },
+    {
+        "id": "0252",
+        "word": "t",
+        "phonetic": "hink",
+        "category": ""
+    },
+    {
+        "id": "0253",
+        "word": "be",
+        "phonetic": "lie ve",
+        "category": ""
+    },
+    {
+        "id": "0254",
+        "word": "ho",
+        "phonetic": "pe( n)",
+        "category": ""
+    },
+    {
+        "id": "0256",
+        "word": "kno",
+        "phonetic": "wledge",
+        "category": ""
+    },
+    {
+        "id": "0257",
+        "word": "wisdo",
+        "phonetic": "m",
+        "category": ""
+    },
+    {
+        "id": "0258",
+        "word": "(",
+        "phonetic": "be)  wis e",
+        "category": ""
+    },
+    {
+        "id": "0263",
+        "word": "t",
+        "phonetic": "each",
+        "category": ""
+    },
+    {
+        "id": "0264",
+        "word": "sho",
+        "phonetic": "w",
+        "category": ""
+    },
+    {
+        "id": "0265",
+        "word": "r",
+        "phonetic": "eme mber",
+        "category": ""
+    },
+    {
+        "id": "0266",
+        "word": "fo",
+        "phonetic": "r get",
+        "category": ""
+    },
+    {
+        "id": "0269",
+        "word": "laug",
+        "phonetic": "h",
+        "category": ""
+    },
+    {
+        "id": "0270",
+        "word": "smile",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0271",
+        "word": "(",
+        "phonetic": "be)  sad",
+        "category": ""
+    },
+    {
+        "id": "0272",
+        "word": "cr",
+        "phonetic": "y,  weep",
+        "category": ""
+    },
+    {
+        "id": "0273",
+        "word": "so",
+        "phonetic": "rro w( n)",
+        "category": ""
+    },
+    {
+        "id": "0274",
+        "word": "sha",
+        "phonetic": "me ( n)",
+        "category": ""
+    },
+    {
+        "id": "0276",
+        "word": "fear",
+        "phonetic": "( n)",
+        "category": ""
+    },
+    {
+        "id": "0279",
+        "word": "(",
+        "phonetic": "be)  angr y",
+        "category": ""
+    },
+    {
+        "id": "0280",
+        "word": "ca",
+        "phonetic": "lm ( o nes e lf)     b",
+        "category": ""
+    },
+    {
+        "id": "0282",
+        "word": "r",
+        "phonetic": "espect ( v)",
+        "category": ""
+    },
+    {
+        "id": "0283",
+        "word": "ho",
+        "phonetic": "no ur ( v)     w",
+        "category": ""
+    },
+    {
+        "id": "0284",
+        "word": "lo",
+        "phonetic": "ve ( v)",
+        "category": ""
+    },
+    {
+        "id": "0289",
+        "word": "cho",
+        "phonetic": "o se(t r ),  pick ( tr )",
+        "category": ""
+    },
+    {
+        "id": "0292",
+        "word": "allo",
+        "phonetic": "w,  per mit     n",
+        "category": ""
+    },
+    {
+        "id": "0294",
+        "word": "pr",
+        "phonetic": "event",
+        "category": ""
+    },
+    {
+        "id": "0297",
+        "word": "succeed",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0298",
+        "word": "fa",
+        "phonetic": "il",
+        "category": ""
+    },
+    {
+        "id": "0299",
+        "word": "pr",
+        "phonetic": "et end",
+        "category": ""
+    },
+    {
+        "id": "0300",
+        "word": "(",
+        "phonetic": "be)  kind",
+        "category": ""
+    },
+    {
+        "id": "0301",
+        "word": "(",
+        "phonetic": "be)  gener o us",
+        "category": ""
+    },
+    {
+        "id": "0304",
+        "word": "(",
+        "phonetic": "be)  cor r upt",
+        "category": ""
+    },
+    {
+        "id": "0307",
+        "word": "(",
+        "phonetic": "be)  jea lo us",
+        "category": ""
+    },
+    {
+        "id": "0308",
+        "word": "(",
+        "phonetic": "be)  shy",
+        "category": ""
+    },
+    {
+        "id": "0309",
+        "word": "(",
+        "phonetic": "be)  co ur ageo us, ( be)  br ave",
+        "category": ""
+    },
+    {
+        "id": "0313",
+        "word": "(",
+        "phonetic": "be)  laz y",
+        "category": ""
+    },
+    {
+        "id": "0314",
+        "word": "(",
+        "phonetic": "be)  pat ie nt     t",
+        "category": ""
+    },
+    {
+        "id": "0315",
+        "word": "(",
+        "phonetic": "be)  impat ie nt",
+        "category": ""
+    },
+    {
+        "id": "0317",
+        "word": "(",
+        "phonetic": "be)  st ubbo r n",
+        "category": ""
+    },
+    {
+        "id": "0319",
+        "word": "har",
+        "phonetic": "ds hip,  d ist r ess",
+        "category": ""
+    },
+    {
+        "id": "0321",
+        "word": "suffer",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0326",
+        "word": "hu",
+        "phonetic": "ma n be ing,  per so n    s",
+        "category": ""
+    },
+    {
+        "id": "0327",
+        "word": "se",
+        "phonetic": "lf",
+        "category": ""
+    },
+    {
+        "id": "0328",
+        "word": "ma",
+        "phonetic": "n ( ma le)",
+        "category": ""
+    },
+    {
+        "id": "0329",
+        "word": "wo",
+        "phonetic": "ma n",
+        "category": ""
+    },
+    {
+        "id": "0330",
+        "word": "whit",
+        "phonetic": "e ma n",
+        "category": ""
+    },
+    {
+        "id": "0332",
+        "word": "baby",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0333",
+        "word": "t",
+        "phonetic": "win",
+        "category": ""
+    },
+    {
+        "id": "0334",
+        "word": "child",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0335",
+        "word": "bo",
+        "phonetic": "y",
+        "category": ""
+    },
+    {
+        "id": "0336",
+        "word": "gir",
+        "phonetic": "l",
+        "category": ""
+    },
+    {
+        "id": "0337",
+        "word": "adult",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0338",
+        "word": "yo",
+        "phonetic": "ung ma n",
+        "category": ""
+    },
+    {
+        "id": "0339",
+        "word": "vir",
+        "phonetic": "g in",
+        "category": ""
+    },
+    {
+        "id": "0340",
+        "word": "o",
+        "phonetic": "ld per so n",
+        "category": ""
+    },
+    {
+        "id": "0341",
+        "word": "r",
+        "phonetic": "elat ive ( by blo o d)",
+        "category": ""
+    },
+    {
+        "id": "0342",
+        "word": "ancest",
+        "phonetic": "o r",
+        "category": ""
+    },
+    {
+        "id": "0343",
+        "word": "gr",
+        "phonetic": "andpar ent",
+        "category": ""
+    },
+    {
+        "id": "0344",
+        "word": "fat",
+        "phonetic": "her",
+        "category": ""
+    },
+    {
+        "id": "0345",
+        "word": "mo",
+        "phonetic": "t her",
+        "category": ""
+    },
+    {
+        "id": "0346",
+        "word": "br",
+        "phonetic": "ot her ( e lder / yo unger )",
+        "category": ""
+    },
+    {
+        "id": "0347",
+        "word": "sist",
+        "phonetic": "er  ( elder / yo ung er )",
+        "category": ""
+    },
+    {
+        "id": "0352",
+        "word": "co",
+        "phonetic": "usin",
+        "category": ""
+    },
+    {
+        "id": "0353",
+        "word": "fir",
+        "phonetic": "st bo r n",
+        "category": ""
+    },
+    {
+        "id": "0355",
+        "word": "so",
+        "phonetic": "n",
+        "category": ""
+    },
+    {
+        "id": "0356",
+        "word": "daught",
+        "phonetic": "er",
+        "category": ""
+    },
+    {
+        "id": "0357",
+        "word": "gr",
+        "phonetic": "andchild",
+        "category": ""
+    },
+    {
+        "id": "0361",
+        "word": "in-",
+        "phonetic": "law,  r e lat ive by mar r iage",
+        "category": ""
+    },
+    {
+        "id": "0362",
+        "word": "hus",
+        "phonetic": "ba nd",
+        "category": ""
+    },
+    {
+        "id": "0363",
+        "word": "wife",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0365",
+        "word": "fat",
+        "phonetic": "her -",
+        "category": ""
+    },
+    {
+        "id": "0366",
+        "word": "mo",
+        "phonetic": "t her -",
+        "category": ""
+    },
+    {
+        "id": "0367",
+        "word": "br",
+        "phonetic": "ot her -",
+        "category": ""
+    },
+    {
+        "id": "0368",
+        "word": "s",
+        "phonetic": "ist er -",
+        "category": ""
+    },
+    {
+        "id": "0369",
+        "word": "so",
+        "phonetic": "n-",
+        "category": ""
+    },
+    {
+        "id": "0370",
+        "word": "daught",
+        "phonetic": "er -",
+        "category": ""
+    },
+    {
+        "id": "0371",
+        "word": "wido",
+        "phonetic": "w",
+        "category": ""
+    },
+    {
+        "id": "0372",
+        "word": "wido",
+        "phonetic": "wer",
+        "category": ""
+    },
+    {
+        "id": "0373",
+        "word": "o",
+        "phonetic": "r phan",
+        "category": ""
+    },
+    {
+        "id": "0374",
+        "word": "fia",
+        "phonetic": "nc e ( bet rot hed bo yfr ie nd)",
+        "category": ""
+    },
+    {
+        "id": "0375",
+        "word": "fia",
+        "phonetic": "nc ee ( bet r ot hed gir lfr ie nd)",
+        "category": ""
+    },
+    {
+        "id": "0376",
+        "word": "bast",
+        "phonetic": "ar d,  ille g it imat e child",
+        "category": ""
+    },
+    {
+        "id": "0379",
+        "word": "fa",
+        "phonetic": "mi ly",
+        "category": ""
+    },
+    {
+        "id": "0380",
+        "word": "fr",
+        "phonetic": "ie",
+        "category": ""
+    },
+    {
+        "id": "0381",
+        "word": "ne",
+        "phonetic": "ig hbo ur",
+        "category": ""
+    },
+    {
+        "id": "0384",
+        "word": "guest",
+        "phonetic": ", vis it o r",
+        "category": ""
+    },
+    {
+        "id": "0385",
+        "word": "st",
+        "phonetic": "r anger  ( unkno wn per so n)",
+        "category": ""
+    },
+    {
+        "id": "0386",
+        "word": "ene",
+        "phonetic": "my",
+        "category": ""
+    },
+    {
+        "id": "0388",
+        "word": "t",
+        "phonetic": "hie f",
+        "category": ""
+    },
+    {
+        "id": "0390",
+        "word": "mess",
+        "phonetic": "e nger",
+        "category": ""
+    },
+    {
+        "id": "0391",
+        "word": "cro",
+        "phonetic": "wd",
+        "category": ""
+    },
+    {
+        "id": "0392",
+        "word": "chie",
+        "phonetic": "f,  head ma n",
+        "category": ""
+    },
+    {
+        "id": "0393",
+        "word": "elder",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0394",
+        "word": "mast",
+        "phonetic": "er",
+        "category": ""
+    },
+    {
+        "id": "0395",
+        "word": "slave",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0396",
+        "word": "far",
+        "phonetic": "mer",
+        "category": ""
+    },
+    {
+        "id": "0397",
+        "word": "fis",
+        "phonetic": "her m",
+        "category": ""
+    },
+    {
+        "id": "0398",
+        "word": "hunt",
+        "phonetic": "er",
+        "category": ""
+    },
+    {
+        "id": "0399",
+        "word": "black",
+        "phonetic": "s mit h",
+        "category": ""
+    },
+    {
+        "id": "0400",
+        "word": "pott",
+        "phonetic": "er",
+        "category": ""
+    },
+    {
+        "id": "0401",
+        "word": "weaver",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0403",
+        "word": "t",
+        "phonetic": "r ader",
+        "category": ""
+    },
+    {
+        "id": "0406",
+        "word": "so",
+        "phonetic": "ld ier",
+        "category": ""
+    },
+    {
+        "id": "0407",
+        "word": "pro",
+        "phonetic": "st it ut e",
+        "category": ""
+    },
+    {
+        "id": "0408",
+        "word": "midw",
+        "phonetic": "ife",
+        "category": ""
+    },
+    {
+        "id": "0410",
+        "word": "fet",
+        "phonetic": "is h pr ie st",
+        "category": ""
+    },
+    {
+        "id": "0412",
+        "word": "wit",
+        "phonetic": "ch ( fe ma le)",
+        "category": ""
+    },
+    {
+        "id": "0421",
+        "word": "flee,",
+        "phonetic": "r un awa y fr o m    g",
+        "category": ""
+    },
+    {
+        "id": "0422",
+        "word": "dr",
+        "phonetic": "ive awa y",
+        "category": ""
+    },
+    {
+        "id": "0426",
+        "word": "r",
+        "phonetic": "esemble",
+        "category": ""
+    },
+    {
+        "id": "0430",
+        "word": "la",
+        "phonetic": "nguage",
+        "category": ""
+    },
+    {
+        "id": "0431",
+        "word": "wo",
+        "phonetic": "r d",
+        "category": ""
+    },
+    {
+        "id": "0433",
+        "word": "sa",
+        "phonetic": "y",
+        "category": ""
+    },
+    {
+        "id": "0434",
+        "word": "vo",
+        "phonetic": "ice",
+        "category": ""
+    },
+    {
+        "id": "0435",
+        "word": "speak,",
+        "phonetic": "t alk",
+        "category": ""
+    },
+    {
+        "id": "0443",
+        "word": "gr",
+        "phonetic": "eet ( v)",
+        "category": ""
+    },
+    {
+        "id": "0444",
+        "word": "call",
+        "phonetic": "( so meo ne)     t",
+        "category": ""
+    },
+    {
+        "id": "0445",
+        "word": "sa",
+        "phonetic": "y goo dbye,  t ake lea ve o f",
+        "category": ""
+    },
+    {
+        "id": "0446",
+        "word": "anno",
+        "phonetic": "unc e",
+        "category": ""
+    },
+    {
+        "id": "0448",
+        "word": "news",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0449",
+        "word": "exp",
+        "phonetic": "la in",
+        "category": ""
+    },
+    {
+        "id": "0451",
+        "word": "go",
+        "phonetic": "ss ip ( v)",
+        "category": ""
+    },
+    {
+        "id": "0452",
+        "word": "lie",
+        "phonetic": "( fa lse ho o d)",
+        "category": ""
+    },
+    {
+        "id": "0456",
+        "word": "answer",
+        "phonetic": ",  r eply ( v)     n",
+        "category": ""
+    },
+    {
+        "id": "0457",
+        "word": "t",
+        "phonetic": "hank",
+        "category": ""
+    },
+    {
+        "id": "0459",
+        "word": "o",
+        "phonetic": "at h",
+        "category": ""
+    },
+    {
+        "id": "0460",
+        "word": "swear",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0461",
+        "word": "insu",
+        "phonetic": "lt  ( v)",
+        "category": ""
+    },
+    {
+        "id": "0462",
+        "word": "insu",
+        "phonetic": "lt  ( n)",
+        "category": ""
+    },
+    {
+        "id": "0465",
+        "word": "ar",
+        "phonetic": "gue",
+        "category": ""
+    },
+    {
+        "id": "0480",
+        "word": "sto",
+        "phonetic": "r y ( t ale)",
+        "category": ""
+    },
+    {
+        "id": "0481",
+        "word": "pro",
+        "phonetic": "ver b",
+        "category": ""
+    },
+    {
+        "id": "0484",
+        "word": "e",
+        "phonetic": "mbr ace,  ( hug)  ( v)     b",
+        "category": ""
+    },
+    {
+        "id": "0492",
+        "word": "he",
+        "phonetic": "lp",
+        "category": ""
+    },
+    {
+        "id": "0494",
+        "word": "lo",
+        "phonetic": "o k aft er",
+        "category": ""
+    },
+    {
+        "id": "0495",
+        "word": "br",
+        "phonetic": "ing up ( a child)",
+        "category": ""
+    },
+    {
+        "id": "0501",
+        "word": "ser",
+        "phonetic": "ve",
+        "category": ""
+    },
+    {
+        "id": "0508",
+        "word": "quar",
+        "phonetic": "r el",
+        "category": ""
+    },
+    {
+        "id": "0509",
+        "word": "fig",
+        "phonetic": "ht",
+        "category": ""
+    },
+    {
+        "id": "0510",
+        "word": "st",
+        "phonetic": "ab",
+        "category": ""
+    },
+    {
+        "id": "0511",
+        "word": "kill,",
+        "phonetic": "mur der     m",
+        "category": ""
+    },
+    {
+        "id": "0517",
+        "word": "st",
+        "phonetic": "ea l",
+        "category": ""
+    },
+    {
+        "id": "0518",
+        "word": "r",
+        "phonetic": "ape",
+        "category": ""
+    },
+    {
+        "id": "0519",
+        "word": "judge",
+        "phonetic": "( v)",
+        "category": ""
+    },
+    {
+        "id": "0520",
+        "word": "law",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0522",
+        "word": "(",
+        "phonetic": "be)  guilt y",
+        "category": ""
+    },
+    {
+        "id": "0523",
+        "word": "(",
+        "phonetic": "be)  inno cent",
+        "category": ""
+    },
+    {
+        "id": "0524",
+        "word": "punis",
+        "phonetic": "h",
+        "category": ""
+    },
+    {
+        "id": "0525",
+        "word": "pena",
+        "phonetic": "lt y,  pu nis hme",
+        "category": ""
+    },
+    {
+        "id": "0529",
+        "word": "mo",
+        "phonetic": "ve awa y,  migr at e",
+        "category": ""
+    },
+    {
+        "id": "0530",
+        "word": "co",
+        "phonetic": "unt r y,  et hnic ar ea",
+        "category": ""
+    },
+    {
+        "id": "0533",
+        "word": "village",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0535",
+        "word": "mar",
+        "phonetic": "ket  ( n)",
+        "category": ""
+    },
+    {
+        "id": "0537",
+        "word": "wear",
+        "phonetic": "clo t hes",
+        "category": ""
+    },
+    {
+        "id": "0538",
+        "word": "dr",
+        "phonetic": "ess ( v)",
+        "category": ""
+    },
+    {
+        "id": "0539",
+        "word": "undr",
+        "phonetic": "ess",
+        "category": ""
+    },
+    {
+        "id": "0541",
+        "word": "hat",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0542",
+        "word": "shir",
+        "phonetic": "t",
+        "category": ""
+    },
+    {
+        "id": "0543",
+        "word": "t",
+        "phonetic": "ro user s",
+        "category": ""
+    },
+    {
+        "id": "0548",
+        "word": "sho",
+        "phonetic": "e,  sanda l",
+        "category": ""
+    },
+    {
+        "id": "0549",
+        "word": "bead",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0552",
+        "word": "neck",
+        "phonetic": "la ce",
+        "category": ""
+    },
+    {
+        "id": "0554",
+        "word": "r",
+        "phonetic": "ing ( finger )",
+        "category": ""
+    },
+    {
+        "id": "0555",
+        "word": "ear",
+        "phonetic": "r ing",
+        "category": ""
+    },
+    {
+        "id": "0561",
+        "word": "bat",
+        "phonetic": "he,  wash o nese lf",
+        "category": ""
+    },
+    {
+        "id": "0563",
+        "word": "wipe",
+        "phonetic": "o ff ( e xcr et a)",
+        "category": ""
+    },
+    {
+        "id": "0564",
+        "word": "cut",
+        "phonetic": "( ha ir )",
+        "category": ""
+    },
+    {
+        "id": "0565",
+        "word": "sha",
+        "phonetic": "ve ( v)",
+        "category": ""
+    },
+    {
+        "id": "0567",
+        "word": "co",
+        "phonetic": "mb ( n)",
+        "category": ""
+    },
+    {
+        "id": "0568",
+        "word": "toot",
+        "phonetic": "h st ick,  toot h br ush",
+        "category": ""
+    },
+    {
+        "id": "0569",
+        "word": "fo",
+        "phonetic": "o d",
+        "category": ""
+    },
+    {
+        "id": "0570",
+        "word": "meat",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0571",
+        "word": "fat",
+        "phonetic": "",
+        "category": ""
+    },
+    {
+        "id": "0572",
+        "word": "o",
+        "phonetic": "il",
+        "category": ""
+    },
+    {
+        "id": "0573",
+        "word": "so",
+        "phonetic": "up, br ot h",
+        "category": ""
+    },
+    {
+        "id": "0575",
+        "word": "br",
+        "phonetic": "ead",
+        "category": ""
+    }
+]

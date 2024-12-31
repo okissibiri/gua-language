@@ -1,0 +1,4244 @@
+[
+    {
+        "id": 0,
+        "word": "MAN\u201fS",
+        "phonetic": "PHYSICAL BEING",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "body",
+        "phonetic": "s\u026a\u0300s\u025b\u0301 \u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "skin",
+        "phonetic": "(of man) e\u0300\u0272i\u0303",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Head",
+        "phonetic": "0003 head \u014bu\u0303",
+        "category": null
+    },
+    {
+        "id": 4,
+        "word": "forehead",
+        "phonetic": "la\u030c:n\u028a\u0303",
+        "category": null
+    },
+    {
+        "id": 5,
+        "word": "face",
+        "phonetic": "\u025b\u0300s\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 6,
+        "word": "eye",
+        "phonetic": "e\u0300si\u0301bi\u0300",
+        "category": null
+    },
+    {
+        "id": 7,
+        "word": "eyebrow",
+        "phonetic": "e\u0300si\u0301bi\u0300 a\u0300m\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 8,
+        "word": "eyelid",
+        "phonetic": "e\u0300si\u0301bi\u0300 f\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 9,
+        "word": "eyelash",
+        "phonetic": "e\u0300si\u0301bi\u0300 mi\u0303",
+        "category": null
+    },
+    {
+        "id": 11,
+        "word": "nose",
+        "phonetic": "a\u0300\u014bw",
+        "category": null
+    },
+    {
+        "id": 13,
+        "word": "ear",
+        "phonetic": "\u0254\u0300s\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 14,
+        "word": "cheek",
+        "phonetic": "\u0254\u0300\u02a8\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 15,
+        "word": "mouth",
+        "phonetic": "a\u0300n\u028a\u0303",
+        "category": null
+    },
+    {
+        "id": 17,
+        "word": "tongue",
+        "phonetic": "d\u0254\u030c:n\u026a\u0303",
+        "category": null
+    },
+    {
+        "id": 18,
+        "word": "tooth",
+        "phonetic": "e\u0300\u0272i\u0303",
+        "category": null
+    },
+    {
+        "id": 21,
+        "word": "jaw",
+        "phonetic": "a\u0300da\u0301nda\u0300/a\u0300da\u0301nna\u0300",
+        "category": null
+    },
+    {
+        "id": 22,
+        "word": "chin",
+        "phonetic": "\u00e6\u0300kpu\u0301",
+        "category": null
+    },
+    {
+        "id": 23,
+        "word": "neck",
+        "phonetic": "\u026a\u0300k",
+        "category": null
+    },
+    {
+        "id": 25,
+        "word": "throat",
+        "phonetic": "\u00e6\u0300bu\u0301ro\u0301bi\u0300/\u026a\u0300k",
+        "category": null
+    },
+    {
+        "id": 27,
+        "word": "hair",
+        "phonetic": "(of head) \u014bu\u0303",
+        "category": null
+    },
+    {
+        "id": 28,
+        "word": "beard",
+        "phonetic": "\u00e6\u0300kpu\u0301/a\u0300b\u0254\u0301\u02a5",
+        "category": null
+    },
+    {
+        "id": 139,
+        "word": "0029",
+        "phonetic": "hair (of body) mi\u0303",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Trunk",
+        "phonetic": "0031 shoulder ba\u0300kp\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 33,
+        "word": "chest",
+        "phonetic": "\u026a\u0300kp\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 34,
+        "word": "breast",
+        "phonetic": "a\u0300h\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 35,
+        "word": "side",
+        "phonetic": "(of body) e\u0300ke\u030c:mi\u0303",
+        "category": null
+    },
+    {
+        "id": 36,
+        "word": "waist",
+        "phonetic": "\u00e6\u0301si\u0302",
+        "category": null
+    },
+    {
+        "id": 37,
+        "word": "navel",
+        "phonetic": "\u00e6\u0300hu\u0300ru\u030c:/a\u0300h\u028a\u0301 a\u0300n\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 40,
+        "word": "stomach",
+        "phonetic": "(internal) o\u0300fu\u0301ro\u0300",
+        "category": null
+    },
+    {
+        "id": 41,
+        "word": "womb",
+        "phonetic": "a\u0300w\u028a\u0300\u02a8",
+        "category": null
+    },
+    {
+        "id": 42,
+        "word": "back",
+        "phonetic": "\u00e6\u0300nsi\u0300",
+        "category": null
+    },
+    {
+        "id": 44,
+        "word": "buttock",
+        "phonetic": "a\u0300t\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 45,
+        "word": "anus",
+        "phonetic": "a\u0300t\u028a\u0301 ku\u0301/a\u0300t\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 46,
+        "word": "penis",
+        "phonetic": "\u00e6\u0300du\u0301/\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 47,
+        "word": "testicle",
+        "phonetic": "e\u0300hu\u0301ro\u0301bi\u0300",
+        "category": null
+    },
+    {
+        "id": 48,
+        "word": "vagina",
+        "phonetic": "b\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Limbs",
+        "phonetic": "0050 arm \u0254\u0300ba\u0301",
+        "category": null
+    },
+    {
+        "id": 51,
+        "word": "armpit",
+        "phonetic": "k\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 53,
+        "word": "elbow",
+        "phonetic": "b\u00e6\u0300ku\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 55,
+        "word": "wrist",
+        "phonetic": "\u0254\u0300ba\u0301 a\u0300n\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 56,
+        "word": "hand",
+        "phonetic": "\u0254\u0300ba\u0301",
+        "category": null
+    },
+    {
+        "id": 57,
+        "word": "fist",
+        "phonetic": "a\u0300\u014bmw",
+        "category": null
+    },
+    {
+        "id": 140,
+        "word": "0058",
+        "phonetic": "palm (of hand) \u0254\u0300ba\u0301d\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 59,
+        "word": "finger",
+        "phonetic": "b\u00e6\u0300bi\u0301",
+        "category": null
+    },
+    {
+        "id": 60,
+        "word": "thumb",
+        "phonetic": "b\u00e6\u0300bi\u0301ko\u0301nti\u030c:",
+        "category": null
+    },
+    {
+        "id": 62,
+        "word": "fingernail",
+        "phonetic": "h\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 63,
+        "word": "leg",
+        "phonetic": "\u0254\u0300na\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 64,
+        "word": "hip",
+        "phonetic": "\u00e6\u0300\u02a5o\u0301nku\u0300",
+        "category": null
+    },
+    {
+        "id": 65,
+        "word": "thigh",
+        "phonetic": "\u00e6\u0300bi\u0301\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 66,
+        "word": "knee",
+        "phonetic": "na\u0303",
+        "category": null
+    },
+    {
+        "id": 70,
+        "word": "foot",
+        "phonetic": "\u0254\u0300na\u0301 \u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 73,
+        "word": "toe",
+        "phonetic": "n\u00e6\u0303",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "Internal",
+        "phonetic": "parts and products",
+        "category": null
+    },
+    {
+        "id": 74,
+        "word": "bone",
+        "phonetic": "bo\u030c:",
+        "category": null
+    },
+    {
+        "id": 76,
+        "word": "skeleton",
+        "phonetic": "e\u0300bo\u030c:",
+        "category": null
+    },
+    {
+        "id": 77,
+        "word": "skull",
+        "phonetic": "\u014bu\u0303a\u0300w\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 80,
+        "word": "rib",
+        "phonetic": "\u014bm\u0300kpa\u0301l\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 81,
+        "word": "brain",
+        "phonetic": "m\u0254\u0303",
+        "category": null
+    },
+    {
+        "id": 82,
+        "word": "heart",
+        "phonetic": "a\u0300da\u0301m\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 83,
+        "word": "liver",
+        "phonetic": "\u014bm\u0300kpa\u0301k\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 85,
+        "word": "lung",
+        "phonetic": "\u00e6\u0300hu\u0301ru\u0301tu\u0300tu\u0300",
+        "category": null
+    },
+    {
+        "id": 86,
+        "word": "intestines",
+        "phonetic": "e\u0300hu\u0301ru\u0301mi\u0300",
+        "category": null
+    },
+    {
+        "id": 91,
+        "word": "vein",
+        "phonetic": "e\u0300\u02a8i\u0301ni\u0300",
+        "category": null
+    },
+    {
+        "id": 93,
+        "word": "saliva",
+        "phonetic": "e\u0300su\u0300su\u030c:/a\u0300n\u028a\u0303",
+        "category": null
+    },
+    {
+        "id": 108,
+        "word": "blood",
+        "phonetic": "\u025b\u0300h\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 101,
+        "word": "urine",
+        "phonetic": "\u00e6\u0300bu\u0301ri\u0300",
+        "category": null
+    },
+    {
+        "id": 102,
+        "word": "excrement,",
+        "phonetic": "faeces bi\u0300ni\u0301/m\u0300bu\u0301a\u0301m\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 141,
+        "word": "1.2",
+        "phonetic": "BODY PROCESSES, FUNCTIONS",
+        "category": null
+    },
+    {
+        "id": 107,
+        "word": "yawn",
+        "phonetic": "h\u028a\u0300k\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 108,
+        "word": "snore",
+        "phonetic": "kpu\u0300ni\u0303",
+        "category": null
+    },
+    {
+        "id": 119,
+        "word": "urinate",
+        "phonetic": "bu\u0300ru\u0300fe\u0301",
+        "category": null
+    },
+    {
+        "id": 121,
+        "word": "defecate",
+        "phonetic": "k\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 128,
+        "word": "sleep",
+        "phonetic": "(v) d\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 129,
+        "word": "dream",
+        "phonetic": "(n) a\u0300d\u025b\u0301d\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Senses",
+        "phonetic": "0131 see \u02a8\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 134,
+        "word": "hear",
+        "phonetic": "ka\u0300",
+        "category": null
+    },
+    {
+        "id": 135,
+        "word": "listen",
+        "phonetic": "ka\u0300",
+        "category": null
+    },
+    {
+        "id": 136,
+        "word": "smell",
+        "phonetic": "(v) f\u026a\u0303",
+        "category": null
+    },
+    {
+        "id": 139,
+        "word": "taste",
+        "phonetic": "da\u0300\u02a8\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Ingestion",
+        "phonetic": "0140 eat \u02a5i\u0300",
+        "category": null
+    },
+    {
+        "id": 141,
+        "word": "bite",
+        "phonetic": "(v) di\u0300",
+        "category": null
+    },
+    {
+        "id": 143,
+        "word": "chew",
+        "phonetic": "w\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 145,
+        "word": "swallow",
+        "phonetic": "m\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 146,
+        "word": "choke",
+        "phonetic": "\u025b\u030c:l\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 147,
+        "word": "lick",
+        "phonetic": "di\u0303",
+        "category": null
+    },
+    {
+        "id": 148,
+        "word": "suck",
+        "phonetic": "fo\u030c:",
+        "category": null
+    },
+    {
+        "id": 149,
+        "word": "drink",
+        "phonetic": "nu\u0342",
+        "category": null
+    },
+    {
+        "id": 142,
+        "word": "1.2",
+        "phonetic": "BODY MOVEMENT",
+        "category": null
+    },
+    {
+        "id": 150,
+        "word": "sit",
+        "phonetic": "\u02a8i\u0300na\u0303",
+        "category": null
+    },
+    {
+        "id": 151,
+        "word": "rise",
+        "phonetic": "up (intr) k\u028a\u0300s\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 154,
+        "word": "walk",
+        "phonetic": "na\u0300",
+        "category": null
+    },
+    {
+        "id": 158,
+        "word": "crawl",
+        "phonetic": "w\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 159,
+        "word": "run",
+        "phonetic": "gw",
+        "category": null
+    },
+    {
+        "id": 160,
+        "word": "swim",
+        "phonetic": "bi\u0300e\u0301",
+        "category": null
+    },
+    {
+        "id": 161,
+        "word": "jump",
+        "phonetic": "(v) f\u026a\u0303",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "BODY",
+        "phonetic": "STATES AND CONDITIONS",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Body",
+        "phonetic": "positions",
+        "category": null
+    },
+    {
+        "id": 169,
+        "word": "stand",
+        "phonetic": "je\u0300li\u0301",
+        "category": null
+    },
+    {
+        "id": 171,
+        "word": "lean",
+        "phonetic": "against (intr) kp\u028a\u0300s\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 172,
+        "word": "bend",
+        "phonetic": "down, stoop bu\u0300tu\u0301",
+        "category": null
+    },
+    {
+        "id": 173,
+        "word": "bow",
+        "phonetic": "(as in greeting) w\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 175,
+        "word": "squat",
+        "phonetic": "\u02a5\u0254\u0301w\u025b\u0342\u0300",
+        "category": null
+    },
+    {
+        "id": 176,
+        "word": "kneel",
+        "phonetic": "bu\u0300tu\u0301 w\u028a\u0301 na\u0300\u014bu\u0303ni\u0300 \u025b\u0300s\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Body",
+        "phonetic": "conditions",
+        "category": null
+    },
+    {
+        "id": 178,
+        "word": "(be)",
+        "phonetic": "hot (of person) j\u028a\u0300 \u025b\u030c:\u02a8\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 179,
+        "word": "(be)",
+        "phonetic": "hungry, hunger (v) o\u0300ko\u0301",
+        "category": null
+    },
+    {
+        "id": 181,
+        "word": "(be)",
+        "phonetic": "thirsty, thirst (v) \u00e6\u0300\u02a8u\u0301ko\u0300",
+        "category": null
+    },
+    {
+        "id": 182,
+        "word": "(be)",
+        "phonetic": "drunk \u0254\u0300b\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 183,
+        "word": "(be)",
+        "phonetic": "tired \u026a\u0300kpa\u0301n\u026a\u0303",
+        "category": null
+    },
+    {
+        "id": 184,
+        "word": "(be)",
+        "phonetic": "sleepy d\u026a\u030c: w\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 143,
+        "word": "0185",
+        "phonetic": "rest h\u028a\u0300m\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 4,
+        "word": "IRREGULAR",
+        "phonetic": "CONDITIONS",
+        "category": null
+    },
+    {
+        "id": 189,
+        "word": "hump",
+        "phonetic": "(of hunchback) a\u0300\u02a8a\u0301\u02a8a\u0300",
+        "category": null
+    },
+    {
+        "id": 5,
+        "word": "Abnormal",
+        "phonetic": "qualities (adjectival)",
+        "category": null
+    },
+    {
+        "id": 190,
+        "word": "(be)",
+        "phonetic": "bald \u0254\u0300kp\u0254\u0301nd\u025b\u0300 \u025b\u030c:kp\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 191,
+        "word": "(be)",
+        "phonetic": "blind e\u0301si\u0301bi\u0300 e\u0300fu\u0300r\u00e6\u0301",
+        "category": null
+    },
+    {
+        "id": 193,
+        "word": "(be)",
+        "phonetic": "thin e\u0300lu\u0301 \u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 194,
+        "word": "(be)",
+        "phonetic": "impotent m\u028a\u0301 a\u0300\u0272\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "HANDICAPPED",
+        "phonetic": "PEOPLE",
+        "category": null
+    },
+    {
+        "id": 195,
+        "word": "barren",
+        "phonetic": "woman a\u0300\u02a8\u026a\u0301a\u0300s\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 196,
+        "word": "blind",
+        "phonetic": "person a\u0300s\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 197,
+        "word": "deaf",
+        "phonetic": "(mute) person \u00e6\u0300si\u0301ti\u030c:h\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 199,
+        "word": "cripple",
+        "phonetic": "(n) a\u0300pa\u0301\u02a8\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 200,
+        "word": "dwarf",
+        "phonetic": "m\u028a\u0300a\u0301ti\u0301a\u0300",
+        "category": null
+    },
+    {
+        "id": 202,
+        "word": "stupid",
+        "phonetic": "person \u00e6\u0300\u02a5i\u0301mi\u0301h\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 204,
+        "word": "mad",
+        "phonetic": "person \u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 6,
+        "word": "HEALTH",
+        "phonetic": "AND DISEASE",
+        "category": null
+    },
+    {
+        "id": 205,
+        "word": "(be)",
+        "phonetic": "healthy, (be) well \u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 207,
+        "word": "hurt",
+        "phonetic": "oneself \u00e6\u030c:kpi\u0300le\u0300 m\u0254\u0303",
+        "category": null
+    },
+    {
+        "id": 209,
+        "word": "medicine",
+        "phonetic": "\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 210,
+        "word": "get",
+        "phonetic": "well, recover \u0272\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 144,
+        "word": "1.6.1",
+        "phonetic": "Abnormalities",
+        "category": null
+    },
+    {
+        "id": 213,
+        "word": "swelling",
+        "phonetic": "o\u0300hu\u0300m\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 216,
+        "word": "burn",
+        "phonetic": "(n) \u0254\u0300s\u0254\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 217,
+        "word": "goiter",
+        "phonetic": "k\u0254\u0300mkp\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 218,
+        "word": "hernia",
+        "phonetic": "(umbilical) \u00e6\u0300ku\u0301ro\u0301dw",
+        "category": null
+    },
+    {
+        "id": 219,
+        "word": "ulcer",
+        "phonetic": "(leg) a\u0300lw",
+        "category": null
+    },
+    {
+        "id": 220,
+        "word": "wound,",
+        "phonetic": "sore a\u0300lw",
+        "category": null
+    },
+    {
+        "id": 222,
+        "word": "scar",
+        "phonetic": "fa\u0342\u0300n\u026a\u0303",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Disease,",
+        "phonetic": "malaise",
+        "category": null
+    },
+    {
+        "id": 225,
+        "word": "elephantiasis",
+        "phonetic": "o\u0300\u02a5\u00e6\u0301mpi\u0300m",
+        "category": null
+    },
+    {
+        "id": 227,
+        "word": "leprosy",
+        "phonetic": "e\u0300kpi\u0301ti\u0300",
+        "category": null
+    },
+    {
+        "id": 228,
+        "word": "malaria",
+        "phonetic": "(fever) \u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 230,
+        "word": "pain",
+        "phonetic": "(n) a\u0300j\u028a\u0301se\u0300",
+        "category": null
+    },
+    {
+        "id": 233,
+        "word": "vomit",
+        "phonetic": "(v) kp\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 234,
+        "word": "stomachache,",
+        "phonetic": "upset stomach a\u0300m\u026a\u0303",
+        "category": null
+    },
+    {
+        "id": 235,
+        "word": "headache",
+        "phonetic": "\u014bu\u0303de\u0300 o\u0300di\u0300m\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 236,
+        "word": "diarrhea",
+        "phonetic": "a\u0300m\u026a\u0301d\u025b\u0300 \u0254\u0300\u02a8\u025b\u0301k\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "Life",
+        "phonetic": "and death",
+        "category": null
+    },
+    {
+        "id": 238,
+        "word": "life",
+        "phonetic": "\u014bm",
+        "category": null
+    },
+    {
+        "id": 239,
+        "word": "(be)",
+        "phonetic": "alive \u02a8i\u0300na\u0303",
+        "category": null
+    },
+    {
+        "id": 240,
+        "word": "menstrual",
+        "phonetic": "period \u00e6\u0300h",
+        "category": null
+    },
+    {
+        "id": 241,
+        "word": "(be)",
+        "phonetic": "pregnant o\u0301\u0272i\u0303",
+        "category": null
+    },
+    {
+        "id": 242,
+        "word": "miscarriage",
+        "phonetic": "o\u0301\u0272i\u0303",
+        "category": null
+    },
+    {
+        "id": 145,
+        "word": "0244",
+        "phonetic": "bear (child), give birth k\u028a\u0300k",
+        "category": null
+    },
+    {
+        "id": 245,
+        "word": "(be)",
+        "phonetic": "born k\u028a\u0300k",
+        "category": null
+    },
+    {
+        "id": 246,
+        "word": "(be)",
+        "phonetic": "young \u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 247,
+        "word": "grow",
+        "phonetic": "up de\u0300",
+        "category": null
+    },
+    {
+        "id": 249,
+        "word": "die",
+        "phonetic": "wu\u0300",
+        "category": null
+    },
+    {
+        "id": 250,
+        "word": "death",
+        "phonetic": "le\u0300wu\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "MAN\u201fS",
+        "phonetic": "NONPHYSICAL BEING",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "KNOW,",
+        "phonetic": "BELIEVE, TEACH",
+        "category": null
+    },
+    {
+        "id": 252,
+        "word": "think",
+        "phonetic": "dw",
+        "category": null
+    },
+    {
+        "id": 253,
+        "word": "believe",
+        "phonetic": "\u0272\u025b\u0300 \u02a5i\u0300di\u0301",
+        "category": null
+    },
+    {
+        "id": 254,
+        "word": "hope",
+        "phonetic": "(n) \u00e6\u0300ni\u0301da\u0301s\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 256,
+        "word": "knowledge",
+        "phonetic": "a\u0300w\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 257,
+        "word": "wisdom",
+        "phonetic": "a\u0300h\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 258,
+        "word": "(be)",
+        "phonetic": "wise a\u0300h\u025b\u030c:h\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 262,
+        "word": "learn",
+        "phonetic": "ka\u0300s\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 263,
+        "word": "teach",
+        "phonetic": "k\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 264,
+        "word": "show",
+        "phonetic": "b\u028a\u0300 \u0254\u0300k\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 265,
+        "word": "remember",
+        "phonetic": "ka\u0300\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 266,
+        "word": "forget",
+        "phonetic": "ta\u0300ns\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "EMOTIONS",
+        "phonetic": "0269 laugh ma\u0300s\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 270,
+        "word": "smile",
+        "phonetic": "ma\u0300s\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 271,
+        "word": "(be)",
+        "phonetic": "sad (\u02a5i\u0300) a\u0300w\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 146,
+        "word": "0272",
+        "phonetic": "cry, weep su\u0303",
+        "category": null
+    },
+    {
+        "id": 273,
+        "word": "sorrow",
+        "phonetic": "(n) a\u0300w\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 274,
+        "word": "shame",
+        "phonetic": "(n) e\u0300si\u0301bi\u0301wu\u0302",
+        "category": null
+    },
+    {
+        "id": 276,
+        "word": "fear",
+        "phonetic": "(n) \u0254\u0300s\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 279,
+        "word": "(be)",
+        "phonetic": "angry \u00e6\u0300kpu\u0300fu\u0301",
+        "category": null
+    },
+    {
+        "id": 280,
+        "word": "calm",
+        "phonetic": "(oneself) b\u0254\u0300k\u0254\u030c:",
+        "category": null
+    },
+    {
+        "id": 282,
+        "word": "respect",
+        "phonetic": "(v) bu\u0300 \u025b\u0300d\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 283,
+        "word": "honour",
+        "phonetic": "(v) w\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 284,
+        "word": "love",
+        "phonetic": "(v) \u0254\u0300d\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "HUMAN",
+        "phonetic": "WILL",
+        "category": null
+    },
+    {
+        "id": 289,
+        "word": "choose",
+        "phonetic": "(tr), pick (tr) \u02a8u\u0300 a\u0300k\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 291,
+        "word": "abstain",
+        "phonetic": "fa\u0303",
+        "category": null
+    },
+    {
+        "id": 292,
+        "word": "allow,",
+        "phonetic": "permit n\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 294,
+        "word": "prevent",
+        "phonetic": "ti\u0300 (j\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 297,
+        "word": "succeed",
+        "phonetic": "de\u0300 \u0254\u0300b",
+        "category": null
+    },
+    {
+        "id": 298,
+        "word": "fail",
+        "phonetic": "be\u0300de\u0301 \u0254\u0300b",
+        "category": null
+    },
+    {
+        "id": 299,
+        "word": "pretend",
+        "phonetic": "si\u0300bw",
+        "category": null
+    },
+    {
+        "id": 4,
+        "word": "HUMAN",
+        "phonetic": "CHARACTER",
+        "category": null
+    },
+    {
+        "id": 300,
+        "word": "(be)",
+        "phonetic": "kind \u014bu\u0303",
+        "category": null
+    },
+    {
+        "id": 301,
+        "word": "(be)",
+        "phonetic": "generous a\u0300hu\u0301m\u0254\u0301b\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 304,
+        "word": "(be)",
+        "phonetic": "corrupt \u00e6\u0300be\u0301\u02a5i\u0300 n\u028a\u0300k",
+        "category": null
+    },
+    {
+        "id": 307,
+        "word": "(be)",
+        "phonetic": "jealous e\u0301si\u0301bi\u0300 h\u026a\u0300n\u026a\u0301\u025b\u0300d\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 308,
+        "word": "(be)",
+        "phonetic": "shy \u025b\u0300d\u025b\u0301h\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 147,
+        "word": "0309",
+        "phonetic": "(be) courageous, (be) brave \u026a\u0300kp\u028a\u0301 \u00e6\u0300du\u0301",
+        "category": null
+    },
+    {
+        "id": 313,
+        "word": "(be)",
+        "phonetic": "lazy a\u0300f\u0254\u030c:h\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 314,
+        "word": "(be)",
+        "phonetic": "patient t\u0254\u0300w\u028a\u0301b\u028a\u0301a\u0300s\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 315,
+        "word": "(be)",
+        "phonetic": "impatient a\u0300b\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 317,
+        "word": "(be)",
+        "phonetic": "stubborn a\u0300s\u028a\u0301de\u0301le\u0300",
+        "category": null
+    },
+    {
+        "id": 5,
+        "word": "DIFFICULTY",
+        "phonetic": "0319 hardship, distress \u0254\u0300ha\u0301w/a\u0300dw",
+        "category": null
+    },
+    {
+        "id": 321,
+        "word": "suffer",
+        "phonetic": "a\u0300ma\u0301n\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "PERSONS",
+        "phonetic": "0326 human being, person s\u026a\u0300s\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 327,
+        "word": "self",
+        "phonetic": "j\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 328,
+        "word": "man",
+        "phonetic": "(male) a\u0300\u0272\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 329,
+        "word": "woman",
+        "phonetic": "a\u0300\u02a8\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 330,
+        "word": "white",
+        "phonetic": "man o\u0300bu\u0301ro\u0301ni\u0300",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "STAGES",
+        "phonetic": "OF LIFE",
+        "category": null
+    },
+    {
+        "id": 332,
+        "word": "baby",
+        "phonetic": "\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 333,
+        "word": "twin",
+        "phonetic": "n\u0300ta\u030c:",
+        "category": null
+    },
+    {
+        "id": 334,
+        "word": "child",
+        "phonetic": "\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 335,
+        "word": "boy",
+        "phonetic": "a\u0300\u0272\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 336,
+        "word": "girl",
+        "phonetic": "a\u0300\u02a8\u026a\u0301bi\u0300",
+        "category": null
+    },
+    {
+        "id": 337,
+        "word": "adult",
+        "phonetic": "\u00e6\u0300nu\u0303",
+        "category": null
+    },
+    {
+        "id": 338,
+        "word": "young",
+        "phonetic": "man a\u0300b\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 148,
+        "word": "0339",
+        "phonetic": "virgin \u00e6\u0300k\u00e6\u0301si\u0301ni\u0300bi\u0300 a\u0300s \u025b\u0301 be\u0300hu\u0301 a\u0300\u0272\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 340,
+        "word": "old",
+        "phonetic": "person \u00e6\u0300\u0272i\u0301mw\u00e6\u0301bi\u0300/a\u0300\u02a8\u026a\u0301kpa\u0301bi\u0300/a\u0300s\u0254\u0301k\u028a\u0300 a\u0300s\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "BLOOD",
+        "phonetic": "RELATIONS",
+        "category": null
+    },
+    {
+        "id": 341,
+        "word": "relative",
+        "phonetic": "(by blood) o\u0300bu\u0301su\u0301\u00e6\u0300ni\u0300",
+        "category": null
+    },
+    {
+        "id": 342,
+        "word": "ancestor",
+        "phonetic": "\u025b\u0300b\u028a\u0301k",
+        "category": null
+    },
+    {
+        "id": 343,
+        "word": "grandparent",
+        "phonetic": "\u0272\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 344,
+        "word": "father",
+        "phonetic": "a\u0301s\u026a\u0302",
+        "category": null
+    },
+    {
+        "id": 345,
+        "word": "mother",
+        "phonetic": "\u00e6\u0301ni\u0303",
+        "category": null
+    },
+    {
+        "id": 346,
+        "word": "brother",
+        "phonetic": "(elder/younger) a\u0300b\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 347,
+        "word": "sister",
+        "phonetic": "(elder/younger) a\u0300b\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 348,
+        "word": "father\u201fs",
+        "phonetic": "brother (uncle) a\u0301s\u026a\u0302nu\u0303m/a\u0301s\u026a\u0302le\u0300bi\u0301",
+        "category": null
+    },
+    {
+        "id": 349,
+        "word": "mother\u201fs",
+        "phonetic": "brother (uncle) w\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 350,
+        "word": "mother\u201fs",
+        "phonetic": "sister (aunt) \u00e6\u0301ni\u0303",
+        "category": null
+    },
+    {
+        "id": 351,
+        "word": "father\u201fs",
+        "phonetic": "sister (aunt) s\u026a\u0301wa\u030c",
+        "category": null
+    },
+    {
+        "id": 352,
+        "word": "cousin",
+        "phonetic": "\u00e6\u0301ni\u0303",
+        "category": null
+    },
+    {
+        "id": 353,
+        "word": "firstborn",
+        "phonetic": "\u00e6\u0301bi\u0302 \u00e6\u0300nu\u0303",
+        "category": null
+    },
+    {
+        "id": 355,
+        "word": "son",
+        "phonetic": "\u00e6\u0301bi\u0302 a\u0300\u0272\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 356,
+        "word": "daughter",
+        "phonetic": "\u00e6\u0301bi\u0302 a\u0300\u02a8\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 357,
+        "word": "grandchild",
+        "phonetic": "a\u0300n\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 359,
+        "word": "name",
+        "phonetic": "\u0272\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "MARRIAGE",
+        "phonetic": "RELATIONS",
+        "category": null
+    },
+    {
+        "id": 361,
+        "word": "in-law,",
+        "phonetic": "relative by marriage",
+        "category": null
+    },
+    {
+        "id": 362,
+        "word": "husband",
+        "phonetic": "\u00e6\u0300ku\u0301ri\u0300",
+        "category": null
+    },
+    {
+        "id": 149,
+        "word": "0363",
+        "phonetic": "wife a\u0300k\u025b\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 365,
+        "word": "father-in-law",
+        "phonetic": "\u00e6\u0301si\u0301\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 366,
+        "word": "mother-in-law",
+        "phonetic": "\u00e6\u0301si\u0301\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 367,
+        "word": "brother-in-law",
+        "phonetic": "a\u0300k\u028a\u0301nta\u0300",
+        "category": null
+    },
+    {
+        "id": 368,
+        "word": "sister-in-law",
+        "phonetic": "\u00e6\u0300ku\u0300m\u00e6\u030c:",
+        "category": null
+    },
+    {
+        "id": 369,
+        "word": "son-in-law",
+        "phonetic": "\u00e6\u0301si\u0301\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 370,
+        "word": "daughter-in-law",
+        "phonetic": "\u00e6\u0301si\u0301\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 371,
+        "word": "widow",
+        "phonetic": "\u00e6\u0300ku\u0301ru\u0301ko\u0300h\u028a\u0300 a\u0300\u02a8\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 372,
+        "word": "widower",
+        "phonetic": "\u00e6\u0300ku\u0301ru\u0301ko\u0300h\u028a\u0300 a\u0300\u0272\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 373,
+        "word": "orphan",
+        "phonetic": "\u00e6\u0300wu\u0301si\u0301\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 374,
+        "word": "fiance",
+        "phonetic": "(betrothed boyfriend) e\u0300ho\u0301b\u025b\u0300 a\u0300\u0272\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 375,
+        "word": "fiancee",
+        "phonetic": "(betrothed girlfriend) e\u0300ho\u0301b\u025b\u0300 a\u0300\u02a8\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 376,
+        "word": "bastard,",
+        "phonetic": "illegitimate child \u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 4,
+        "word": "RELATIONS,",
+        "phonetic": "EXTENDED AND SOCIAL",
+        "category": null
+    },
+    {
+        "id": 379,
+        "word": "family",
+        "phonetic": "\u00e6\u0300bu\u0301su\u0301\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 380,
+        "word": "friend",
+        "phonetic": "a\u0300da\u0301mf\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 381,
+        "word": "neighbour",
+        "phonetic": "a\u0300s\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 384,
+        "word": "guest,",
+        "phonetic": "visitor a\u0300fw",
+        "category": null
+    },
+    {
+        "id": 385,
+        "word": "stranger",
+        "phonetic": "(unknown person) a\u0300fw",
+        "category": null
+    },
+    {
+        "id": 386,
+        "word": "enemy",
+        "phonetic": "a\u0300ta\u0301h\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 388,
+        "word": "thief",
+        "phonetic": "\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 390,
+        "word": "messenger",
+        "phonetic": "a\u0300b\u0254\u030c:h\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 391,
+        "word": "crowd",
+        "phonetic": "s\u026a\u0300s\u025b\u0301 e\u0300ku\u0301",
+        "category": null
+    },
+    {
+        "id": 392,
+        "word": "chief,",
+        "phonetic": "headman \u00e6\u0301wu\u0301le\u0300",
+        "category": null
+    },
+    {
+        "id": 150,
+        "word": "0393",
+        "phonetic": "elder \u00e6\u0300nu\u0302m",
+        "category": null
+    },
+    {
+        "id": 394,
+        "word": "master",
+        "phonetic": "a\u0301da\u0301h\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 395,
+        "word": "slave",
+        "phonetic": "\u00e6\u0301kp\u00e6\u0301bi\u0300",
+        "category": null
+    },
+    {
+        "id": 5,
+        "word": "PROFESSIONS",
+        "phonetic": "0396 farmer o\u0300kw\u00e6\u0301ni\u0300",
+        "category": null
+    },
+    {
+        "id": 397,
+        "word": "fisherman",
+        "phonetic": "a\u0300s\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 398,
+        "word": "hunter",
+        "phonetic": "a\u0300s\u025b\u0301 we\u0300 kp\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 399,
+        "word": "blacksmith",
+        "phonetic": "\u00e6\u0300bi\u0301e\u0301li\u0300h\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 400,
+        "word": "potter",
+        "phonetic": "a\u0300s\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 401,
+        "word": "weaver",
+        "phonetic": "a\u0300s\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 403,
+        "word": "trader",
+        "phonetic": "a\u0300s\u025b\u0301 \u02a5i\u0300 i\u0300bi\u0301e\u0300/i\u0300bi\u0301e\u0301\u02a5i\u0300h\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 406,
+        "word": "soldier",
+        "phonetic": "o\u0300so\u0301\u02a5\u00e6\u0301ni\u0300",
+        "category": null
+    },
+    {
+        "id": 407,
+        "word": "prostitute",
+        "phonetic": "\u00e6\u0300hu\u0301ri\u0301t\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 408,
+        "word": "midwife",
+        "phonetic": "a\u0300s\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 410,
+        "word": "fetish",
+        "phonetic": "priest \u0254\u0300k\u0254\u0301mf\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 412,
+        "word": "witch",
+        "phonetic": "(female) \u0254\u0300b\u028a\u0301nsa\u0300m a\u0300\u02a8\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "ASSOCIATION",
+        "phonetic": "OFF PERSONS",
+        "category": null
+    },
+    {
+        "id": 421,
+        "word": "flee,",
+        "phonetic": "run away from gw",
+        "category": null
+    },
+    {
+        "id": 422,
+        "word": "drive",
+        "phonetic": "away \u02a5e\u0300 m\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 426,
+        "word": "resemble",
+        "phonetic": "\u0254\u0300w\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 151,
+        "word": "4.2",
+        "phonetic": "SPEECH, LANGUAGE",
+        "category": null
+    },
+    {
+        "id": 430,
+        "word": "language",
+        "phonetic": "m\u0300bi\u0301ri\u0300/m\u0300mi\u0301ri\u0300",
+        "category": null
+    },
+    {
+        "id": 431,
+        "word": "word",
+        "phonetic": "e\u0300se\u0301",
+        "category": null
+    },
+    {
+        "id": 433,
+        "word": "say",
+        "phonetic": "j\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 434,
+        "word": "voice",
+        "phonetic": "e\u0300bi\u0301de\u0301",
+        "category": null
+    },
+    {
+        "id": 435,
+        "word": "speak,",
+        "phonetic": "talk bi\u0300ri\u0301",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Greeting",
+        "phonetic": "0443 greet (v) bi\u0300\u00e6\u0300k\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 444,
+        "word": "call",
+        "phonetic": "(someone) t\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 445,
+        "word": "say",
+        "phonetic": "goodbye, take leave of na\u030c:r\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Information",
+        "phonetic": "and questions",
+        "category": null
+    },
+    {
+        "id": 446,
+        "word": "announce",
+        "phonetic": "d\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 448,
+        "word": "news",
+        "phonetic": "e\u0300se\u0301 \u025b\u0300n\u026a\u0300\u025b\u030c:b\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 449,
+        "word": "explain",
+        "phonetic": "k\u025b\u0300 a\u0300s\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 451,
+        "word": "gossip",
+        "phonetic": "(v) n\u0300se\u0300ku\u0301",
+        "category": null
+    },
+    {
+        "id": 452,
+        "word": "lie",
+        "phonetic": "(falsehood) e\u0300nu\u0300fu\u0301",
+        "category": null
+    },
+    {
+        "id": 453,
+        "word": "ask,",
+        "phonetic": "request bi\u0300se\u0301",
+        "category": null
+    },
+    {
+        "id": 456,
+        "word": "answer,",
+        "phonetic": "reply (v) n\u025b\u0300 m\u0300mu\u0300a\u0301\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 457,
+        "word": "thank",
+        "phonetic": "n\u025b\u0300 \u014bm",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "Promise",
+        "phonetic": "0459 oath te\u0301",
+        "category": null
+    },
+    {
+        "id": 460,
+        "word": "swear",
+        "phonetic": "k\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 152,
+        "word": "4.2.4",
+        "phonetic": "Strife and praise",
+        "category": null
+    },
+    {
+        "id": 461,
+        "word": "insult",
+        "phonetic": "(v) l\u028a\u0300b",
+        "category": null
+    },
+    {
+        "id": 462,
+        "word": "insult",
+        "phonetic": "(n) \u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 465,
+        "word": "argue",
+        "phonetic": "\u02a8i\u0300 o\u0300\u02a5i\u0301",
+        "category": null
+    },
+    {
+        "id": 470,
+        "word": "deny",
+        "phonetic": "b\u025b\u0300s\u0254\u0301 o\u0300tu\u0301de\u0300",
+        "category": null
+    },
+    {
+        "id": 5,
+        "word": "Discourse",
+        "phonetic": "genres",
+        "category": null
+    },
+    {
+        "id": 480,
+        "word": "story",
+        "phonetic": "(tale) a\u0300t\u026a\u030c:",
+        "category": null
+    },
+    {
+        "id": 481,
+        "word": "proverb",
+        "phonetic": "b\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "INTERPERSONAL",
+        "phonetic": "CONTACT",
+        "category": null
+    },
+    {
+        "id": 484,
+        "word": "embrace,",
+        "phonetic": "(hug) (v) bw",
+        "category": null
+    },
+    {
+        "id": 4,
+        "word": "HELP",
+        "phonetic": "AND CARE",
+        "category": null
+    },
+    {
+        "id": 492,
+        "word": "help",
+        "phonetic": "b\u028a\u0300a\u0301",
+        "category": null
+    },
+    {
+        "id": 494,
+        "word": "look",
+        "phonetic": "after \u02a8\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 495,
+        "word": "bring",
+        "phonetic": "up (a child) ta\u0300n\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 5,
+        "word": "DOMINION",
+        "phonetic": "AND CONTROL",
+        "category": null
+    },
+    {
+        "id": 501,
+        "word": "serve",
+        "phonetic": "si\u0300 (\u00e6\u0300s\u0254\u0301k\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 6,
+        "word": "CONFLICT",
+        "phonetic": "AND RESOLUTION",
+        "category": null
+    },
+    {
+        "id": 508,
+        "word": "quarrel",
+        "phonetic": "a\u0300bi\u0300e\u0301ti\u0300",
+        "category": null
+    },
+    {
+        "id": 509,
+        "word": "fight",
+        "phonetic": "\u026a\u0300k\u0254\u0342\u0300",
+        "category": null
+    },
+    {
+        "id": 510,
+        "word": "stab",
+        "phonetic": "w\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 153,
+        "word": "0511",
+        "phonetic": "kill, murder m\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 7,
+        "word": "CRIME",
+        "phonetic": "AND JUSTICE",
+        "category": null
+    },
+    {
+        "id": 517,
+        "word": "steal",
+        "phonetic": "wu\u0300ri\u0301",
+        "category": null
+    },
+    {
+        "id": 518,
+        "word": "rape",
+        "phonetic": "tu\u0300 (m\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 519,
+        "word": "judge",
+        "phonetic": "(v) \u02a5i\u0300 e\u0300se\u0301",
+        "category": null
+    },
+    {
+        "id": 520,
+        "word": "law",
+        "phonetic": "m\u0300ma\u0301ra\u0300",
+        "category": null
+    },
+    {
+        "id": 522,
+        "word": "(be)",
+        "phonetic": "guilty \u00e6\u0301\u02a5i\u0300 \u026a\u0300h",
+        "category": null
+    },
+    {
+        "id": 523,
+        "word": "(be)",
+        "phonetic": "innocent \u00e6\u0301\u02a5i\u0300 be\u0301",
+        "category": null
+    },
+    {
+        "id": 524,
+        "word": "punish",
+        "phonetic": "\u00e6\u0301so\u0300bi\u0300 m\u028a\u0301 \u0254\u0300s\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 525,
+        "word": "penalty,",
+        "phonetic": "punishment \u0254\u0300s\u028a\u0301 o\u0300so\u0301bi\u0300",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "SETTLEMENT",
+        "phonetic": "0529 move away, migrate \u02a8u\u0300kw",
+        "category": null
+    },
+    {
+        "id": 530,
+        "word": "country,",
+        "phonetic": "ethnic area o\u0300ku\u0301ro\u0300",
+        "category": null
+    },
+    {
+        "id": 533,
+        "word": "village",
+        "phonetic": "\u00e6\u0300ku\u0301r\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 535,
+        "word": "market",
+        "phonetic": "(n) i\u0300bi\u0301e\u0300",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "CLOTHING",
+        "phonetic": "AND ADORNMENT OF BODY",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Clothing",
+        "phonetic": "0537 wear clothes hi\u0300 \u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 538,
+        "word": "dress",
+        "phonetic": "(v) w\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 539,
+        "word": "undress",
+        "phonetic": "kp\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 541,
+        "word": "hat",
+        "phonetic": "k\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 542,
+        "word": "shirt",
+        "phonetic": "s\u028a\u0303",
+        "category": null
+    },
+    {
+        "id": 154,
+        "word": "0543",
+        "phonetic": "trousers s\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 548,
+        "word": "shoe,",
+        "phonetic": "sandal m\u0300pa\u030c:b\u028a\u0300a\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Adornment",
+        "phonetic": "and accessories",
+        "category": null
+    },
+    {
+        "id": 549,
+        "word": "bead",
+        "phonetic": "a\u0300kw",
+        "category": null
+    },
+    {
+        "id": 552,
+        "word": "necklace",
+        "phonetic": "\u026a\u0300k",
+        "category": null
+    },
+    {
+        "id": 554,
+        "word": "ring",
+        "phonetic": "(finger) ka\u030c:",
+        "category": null
+    },
+    {
+        "id": 555,
+        "word": "earring",
+        "phonetic": "a\u0300s\u028a\u0301mka\u030c:",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "Car",
+        "phonetic": "for body",
+        "category": null
+    },
+    {
+        "id": 561,
+        "word": "bathe,",
+        "phonetic": "wash oneself o\u0300bi\u0301e\u0300/f\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 563,
+        "word": "wipe",
+        "phonetic": "off (excreta) fa\u0300l\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 564,
+        "word": "cut",
+        "phonetic": "(hair) s\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 565,
+        "word": "shave",
+        "phonetic": "(v) s\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 567,
+        "word": "comb",
+        "phonetic": "(n) n\u0300j\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 568,
+        "word": "tooth",
+        "phonetic": "stick, tooth brush \u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "FOOD",
+        "phonetic": "AND DRINK",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Food",
+        "phonetic": "0569 food te\u0300i\u0301",
+        "category": null
+    },
+    {
+        "id": 570,
+        "word": "meat",
+        "phonetic": "o\u0300ni\u0301",
+        "category": null
+    },
+    {
+        "id": 571,
+        "word": "fat",
+        "phonetic": "s\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 572,
+        "word": "oil",
+        "phonetic": "m\u0300f",
+        "category": null
+    },
+    {
+        "id": 573,
+        "word": "soup,",
+        "phonetic": "broth \u00e6\u0300\u02a8u\u0301",
+        "category": null
+    },
+    {
+        "id": 575,
+        "word": "bread",
+        "phonetic": "bu\u0300ro\u0301do\u0300",
+        "category": null
+    },
+    {
+        "id": 155,
+        "word": "0577",
+        "phonetic": "flour sa\u0342\u0301m",
+        "category": null
+    },
+    {
+        "id": 578,
+        "word": "salt",
+        "phonetic": "m\u0300fa\u0301l\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 579,
+        "word": "breakfast",
+        "phonetic": "\u00e6\u0300\u0272e\u0303",
+        "category": null
+    },
+    {
+        "id": 580,
+        "word": "evening",
+        "phonetic": "meal a\u0300d\u026a\u0301d\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 582,
+        "word": "leftovers",
+        "phonetic": "te\u0300i\u0301 \u025b\u0300n\u026a\u0303",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Drink",
+        "phonetic": "0585 milk (n) a\u0300h\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 587,
+        "word": "alcohol",
+        "phonetic": "(general) n\u0300t\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 588,
+        "word": "beer",
+        "phonetic": "(traditional) n\u0300t\u025b\u0301 e\u030c:fu\u0300ri\u0301",
+        "category": null
+    },
+    {
+        "id": 590,
+        "word": "palm",
+        "phonetic": "wine n\u0300t\u025b\u0301 e\u030c:fu\u0300ri\u0301",
+        "category": null
+    },
+    {
+        "id": 4,
+        "word": "FOOD",
+        "phonetic": "PREPARATION",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Kitchen",
+        "phonetic": "preparation",
+        "category": null
+    },
+    {
+        "id": 591,
+        "word": "prepare",
+        "phonetic": "(food to cook) da\u0300\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 595,
+        "word": "peel",
+        "phonetic": "(v) f\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 596,
+        "word": "mix",
+        "phonetic": "(v) b\u028a\u0300 \u0254\u0300sa\u0300\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 597,
+        "word": "stir",
+        "phonetic": "wu\u0300re\u0300d\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 599,
+        "word": "pound",
+        "phonetic": "w\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 600,
+        "word": "ground",
+        "phonetic": "kw",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Cooking",
+        "phonetic": "0603 cook (v) da\u0300\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 604,
+        "word": "roast",
+        "phonetic": "t\u0254\u0342\u0300",
+        "category": null
+    },
+    {
+        "id": 605,
+        "word": "fry",
+        "phonetic": "kw",
+        "category": null
+    },
+    {
+        "id": 606,
+        "word": "bake",
+        "phonetic": "(in ashes) t\u0254\u0342\u0300 b\u028a\u0300 n\u0300s\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 156,
+        "word": "0607",
+        "phonetic": "(be) smoked h\u028a\u030c:",
+        "category": null
+    },
+    {
+        "id": 608,
+        "word": "boil",
+        "phonetic": "(water), bubble up da\u0300\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 5,
+        "word": "DOMESTIC",
+        "phonetic": "UTENSILS AND CONTAINMENT",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Kitchen",
+        "phonetic": "utensils",
+        "category": null
+    },
+    {
+        "id": 610,
+        "word": "cooking",
+        "phonetic": "pot (earthenware) so\u0300bi\u0301/k\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 612,
+        "word": "pot",
+        "phonetic": "(chair) kpi\u0301",
+        "category": null
+    },
+    {
+        "id": 613,
+        "word": "ladle",
+        "phonetic": "a\u0300kp\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 618,
+        "word": "pestle,",
+        "phonetic": "pounding stick \u00e6\u0300kpu\u0301kpu\u0301i\u0300",
+        "category": null
+    },
+    {
+        "id": 619,
+        "word": "mortar,",
+        "phonetic": "pounding pot a\u0300kp\u028a\u0301kp\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Eating",
+        "phonetic": "utensils",
+        "category": null
+    },
+    {
+        "id": 620,
+        "word": "plate",
+        "phonetic": "p\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 621,
+        "word": "bowl",
+        "phonetic": "o\u0300se\u0301",
+        "category": null
+    },
+    {
+        "id": 622,
+        "word": "cup",
+        "phonetic": "ku\u0300ru\u0301w\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 623,
+        "word": "spoon",
+        "phonetic": "(traditional) a\u0300t\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "Containers",
+        "phonetic": "and containment",
+        "category": null
+    },
+    {
+        "id": 624,
+        "word": "bag",
+        "phonetic": "o\u0300ko\u0301to\u0301ku\u0300/b\u00e6\u030c:g\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 627,
+        "word": "bucket,",
+        "phonetic": "pail bo\u0300ki\u0301ti\u0300",
+        "category": null
+    },
+    {
+        "id": 628,
+        "word": "calabash",
+        "phonetic": "a\u0300w\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 629,
+        "word": "bottle",
+        "phonetic": "tu\u0300mpa\u0301\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 632,
+        "word": "pour",
+        "phonetic": "\u02a8\u025b\u0300k\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 636,
+        "word": "(be)",
+        "phonetic": "full \u025b\u030c:b\u0254\u0342\u0300/n\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 637,
+        "word": "(be)",
+        "phonetic": "empty \u02a8\u025b\u0300k\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 157,
+        "word": "0638",
+        "phonetic": "(be) open fu\u0300i\u0301/bu\u0300\u02a8i\u0301",
+        "category": null
+    },
+    {
+        "id": 642,
+        "word": "cover",
+        "phonetic": "(v) ti\u0300 a\u0300n\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 643,
+        "word": "uncover",
+        "phonetic": "fu\u0300i\u0301 s\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 653,
+        "word": "rope",
+        "phonetic": "\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 654,
+        "word": "knot",
+        "phonetic": "kp\u0254\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 656,
+        "word": "tie",
+        "phonetic": "(knot) d\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 657,
+        "word": "untie",
+        "phonetic": "sa\u0300\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 6,
+        "word": "HABITATION",
+        "phonetic": "5.6.1 Parts of a house",
+        "category": null
+    },
+    {
+        "id": 662,
+        "word": "compound,",
+        "phonetic": "house \u00e6\u0300wi\u0301 s\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 664,
+        "word": "wall",
+        "phonetic": "\u0254\u0300kp\u028a\u0301kp\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 667,
+        "word": "window",
+        "phonetic": "m\u0300f\u025b\u0301ns\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 670,
+        "word": "floor",
+        "phonetic": "s\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 671,
+        "word": "room",
+        "phonetic": "\u00e6\u0300bu\u0301de\u0300",
+        "category": null
+    },
+    {
+        "id": 672,
+        "word": "bedroom",
+        "phonetic": "pi\u0300\u00e6\u0301d\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 673,
+        "word": "kitchen",
+        "phonetic": "so\u0300bi\u0301a\u0301s\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 676,
+        "word": "fence",
+        "phonetic": "(n) \u0254\u0300kp\u028a\u0301kp\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 680,
+        "word": "bathing",
+        "phonetic": "place \u00e6\u0300bi\u0300e\u0301 s\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 681,
+        "word": "latrine,",
+        "phonetic": "toilet \u0254\u0300\u02a8\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 682,
+        "word": "garbage",
+        "phonetic": "dump mu\u0300n\u0254\u0342\u0301s\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Construction",
+        "phonetic": "0685 build kpi\u0300le\u0301",
+        "category": null
+    },
+    {
+        "id": 692,
+        "word": "ladder",
+        "phonetic": "a\u0300kp\u028a\u0301s\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 158,
+        "word": "5.6.3",
+        "phonetic": "Furniture",
+        "category": null
+    },
+    {
+        "id": 693,
+        "word": "chair",
+        "phonetic": "\u00e6\u0300bi\u0301e\u0300",
+        "category": null
+    },
+    {
+        "id": 694,
+        "word": "stool",
+        "phonetic": "so\u0300bi\u0301a\u0301s\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 696,
+        "word": "bed",
+        "phonetic": "\u014bm\u0300kpa\u0301",
+        "category": null
+    },
+    {
+        "id": 700,
+        "word": "bell",
+        "phonetic": "d\u0254\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 701,
+        "word": "ring",
+        "phonetic": "(bell) (v) w\u028a\u0300s\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 7,
+        "word": "PROFESSIONS",
+        "phonetic": "AND WORK",
+        "category": null
+    },
+    {
+        "id": 703,
+        "word": "work",
+        "phonetic": "(n) e\u0300si\u0301mi\u0300",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Pottery",
+        "phonetic": "0710 mould (pottery) l\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "Wood",
+        "phonetic": "work",
+        "category": null
+    },
+    {
+        "id": 712,
+        "word": "wood",
+        "phonetic": "\u00e6\u0300\u02a5e\u0301",
+        "category": null
+    },
+    {
+        "id": 713,
+        "word": "cut",
+        "phonetic": "down (tree) ku\u0300 \u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 716,
+        "word": "axe",
+        "phonetic": "a\u0300f\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 724,
+        "word": "nail",
+        "phonetic": "(n) da\u0300\u014b\u028a\u0301a\u0300",
+        "category": null
+    },
+    {
+        "id": 4,
+        "word": "Tailoring",
+        "phonetic": "and weaving",
+        "category": null
+    },
+    {
+        "id": 725,
+        "word": "sew",
+        "phonetic": "ba\u0342\u0300",
+        "category": null
+    },
+    {
+        "id": 726,
+        "word": "needle",
+        "phonetic": "pa\u0303",
+        "category": null
+    },
+    {
+        "id": 729,
+        "word": "pocket",
+        "phonetic": "o\u0300ko\u0301to\u0301ku\u0300",
+        "category": null
+    },
+    {
+        "id": 159,
+        "word": "5.7.5",
+        "phonetic": "Domestic work",
+        "category": null
+    },
+    {
+        "id": 733,
+        "word": "rag",
+        "phonetic": "t\u026a\u0300na\u0303",
+        "category": null
+    },
+    {
+        "id": 734,
+        "word": "broom",
+        "phonetic": "a\u0300f\u026a\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 735,
+        "word": "sweep",
+        "phonetic": "f\u028a\u0300\u02a8\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 737,
+        "word": "wash",
+        "phonetic": "(clothes and utensils) f\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 738,
+        "word": "draw",
+        "phonetic": "water s\u025b\u0300 n\u0300\u02a8u\u0301",
+        "category": null
+    },
+    {
+        "id": 739,
+        "word": "fetch",
+        "phonetic": "(firewood) \u02a5a\u0300\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 740,
+        "word": "dig",
+        "phonetic": "ku\u0300",
+        "category": null
+    },
+    {
+        "id": 741,
+        "word": "rubbish",
+        "phonetic": "mu\u0303",
+        "category": null
+    },
+    {
+        "id": 8,
+        "word": "AGRICULTURE",
+        "phonetic": "5.8.1 Cultivation",
+        "category": null
+    },
+    {
+        "id": 750,
+        "word": "weed",
+        "phonetic": "(v) d\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 751,
+        "word": "hoe",
+        "phonetic": "(v) a\u0300d\u0254\u0301d\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 752,
+        "word": "hoe",
+        "phonetic": "(n) a\u0300d\u0254\u0301d\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 753,
+        "word": "big",
+        "phonetic": "hoe a\u0300d\u0254\u0301d\u026a\u0300kpo\u030c:mo\u0300",
+        "category": null
+    },
+    {
+        "id": 755,
+        "word": "machete,",
+        "phonetic": "cutlass a\u0300d\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Fishing",
+        "phonetic": "0799 fish (v) ji\u0300e\u0301 o\u0300ni\u0301 (b\u028a\u0300 n\u0300\u02a8u\u0301 d\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 802,
+        "word": "fishing",
+        "phonetic": "net \u00e6\u0300s\u00e6\u0301wu\u0300",
+        "category": null
+    },
+    {
+        "id": 10,
+        "word": "POSSESSIONS",
+        "phonetic": "AND COMMERCE",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Possessions",
+        "phonetic": "0809 give n\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 160,
+        "word": "5.10.2",
+        "phonetic": "Money exchange, finances",
+        "category": null
+    },
+    {
+        "id": 817,
+        "word": "money",
+        "phonetic": "e\u0300te\u030c:mi\u0300/si\u0300ka\u0301",
+        "category": null
+    },
+    {
+        "id": 820,
+        "word": "buy",
+        "phonetic": "s\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 821,
+        "word": "sell",
+        "phonetic": "f\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 823,
+        "word": "(be)",
+        "phonetic": "expensive i\u0300bi\u0301e\u0300 \u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 825,
+        "word": "price",
+        "phonetic": "i\u0300bi\u0301e\u0300",
+        "category": null
+    },
+    {
+        "id": 827,
+        "word": "payment",
+        "phonetic": "kw",
+        "category": null
+    },
+    {
+        "id": 828,
+        "word": "pay",
+        "phonetic": "(for goods, services, etc.) k\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 832,
+        "word": "borrow",
+        "phonetic": "ha\u0300",
+        "category": null
+    },
+    {
+        "id": 833,
+        "word": "lend",
+        "phonetic": "b\u028a\u0300 \u0254\u0300ha\u0301",
+        "category": null
+    },
+    {
+        "id": 834,
+        "word": "debt",
+        "phonetic": "kw",
+        "category": null
+    },
+    {
+        "id": 12,
+        "word": "WAR",
+        "phonetic": "0866 war \u0254\u0300s\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 867,
+        "word": "peace",
+        "phonetic": "\u0254\u0300s\u028a\u0301d\u025b\u0300 o\u0300wi\u0301ri\u0300",
+        "category": null
+    },
+    {
+        "id": 868,
+        "word": "army",
+        "phonetic": "\u025b\u0300s\u025b\u0301 we\u0300 \u0254\u0300k\u0254\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 871,
+        "word": "sword",
+        "phonetic": "\u00e6\u0300\u02a8i\u0301",
+        "category": null
+    },
+    {
+        "id": 872,
+        "word": "gun",
+        "phonetic": "\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 13,
+        "word": "ARTS",
+        "phonetic": "AND LEISURE",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Music",
+        "phonetic": "and dance",
+        "category": null
+    },
+    {
+        "id": 878,
+        "word": "music",
+        "phonetic": "le\u0301",
+        "category": null
+    },
+    {
+        "id": 879,
+        "word": "song",
+        "phonetic": "le\u0301",
+        "category": null
+    },
+    {
+        "id": 883,
+        "word": "dance",
+        "phonetic": "(n) \u0254\u0300\u02a8a\u0301",
+        "category": null
+    },
+    {
+        "id": 884,
+        "word": "dance",
+        "phonetic": "(v) \u02a8a\u0300",
+        "category": null
+    },
+    {
+        "id": 161,
+        "word": "5.14.1",
+        "phonetic": "RELIGION AND THE SUPERNATURAL",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Religion",
+        "phonetic": "and witchcraft",
+        "category": null
+    },
+    {
+        "id": 912,
+        "word": "pray",
+        "phonetic": "d\u025b\u0300 m\u0300pa\u0301\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 913,
+        "word": "blessing",
+        "phonetic": "n\u0300\u0255i\u0301ra\u0300",
+        "category": null
+    },
+    {
+        "id": 920,
+        "word": "curse",
+        "phonetic": "(v) d\u028a\u0300m\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 921,
+        "word": "curse",
+        "phonetic": "(n) mu\u0300su\u0301/\u0254\u0300da\u0301",
+        "category": null
+    },
+    {
+        "id": 930,
+        "word": "pour",
+        "phonetic": "libation w\u028a\u0300\u02a8\u026a\u0301n\u0300t\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 15,
+        "word": "CEREMONIES",
+        "phonetic": "0935 circumcision (male) \u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Marriage",
+        "phonetic": "0939 marry ho\u0300",
+        "category": null
+    },
+    {
+        "id": 940,
+        "word": "marriage",
+        "phonetic": "(state of wedlock) o\u0300ho\u0301",
+        "category": null
+    },
+    {
+        "id": 944,
+        "word": "bride",
+        "phonetic": "a\u0300\u02a8\u026a\u0301a\u0300s\u025b\u0301 we\u0300 a\u0300\u0255\u026a\u0301k\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 945,
+        "word": "groom",
+        "phonetic": "a\u0300\u0272\u025b\u0301 a\u0300s\u025b\u0301 ne\u030c:ho\u0300 a\u0300k\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 947,
+        "word": "adultery",
+        "phonetic": "e\u0300ho\u0301 \u0254\u0300b",
+        "category": null
+    },
+    {
+        "id": 948,
+        "word": "divorce",
+        "phonetic": "(v) a\u0300k\u0254\u0342\u0300",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Funeral",
+        "phonetic": "0953 corpse hu\u0300ni\u0301",
+        "category": null
+    },
+    {
+        "id": 954,
+        "word": "bury",
+        "phonetic": "(hu\u0300ni\u0301) o\u0300hu\u0301le\u0300",
+        "category": null
+    },
+    {
+        "id": 955,
+        "word": "grave",
+        "phonetic": "(hu\u0300ni\u0301) \u026a\u0300b\u0254\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 956,
+        "word": "cemetery",
+        "phonetic": "g\u0254\u030c:/kp\u0254\u0301d\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 162,
+        "word": "6.",
+        "phonetic": "Animals",
+        "category": null
+    },
+    {
+        "id": 957,
+        "word": "animal",
+        "phonetic": "\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "DOMESTIC",
+        "phonetic": "ANIMALS",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Ovines",
+        "phonetic": "and caprines",
+        "category": null
+    },
+    {
+        "id": 965,
+        "word": "goat",
+        "phonetic": "\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 966,
+        "word": "he-goat,",
+        "phonetic": "billy goat a\u0300kpa\u0301kp\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 969,
+        "word": "sheep",
+        "phonetic": "o\u0300gw",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "Poultry",
+        "phonetic": "0974 chicken a\u0300k\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 97,
+        "word": "hen",
+        "phonetic": "a\u0300k\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 5,
+        "word": "Other",
+        "phonetic": "0987 pig ku\u0301ri\u0302",
+        "category": null
+    },
+    {
+        "id": 991,
+        "word": "dog",
+        "phonetic": "gbe\u0300i\u0301/\u0254\u0300k\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 993,
+        "word": "cat",
+        "phonetic": "pu\u0300si\u0301/a\u0300\u02a5i\u0301na\u0301m\u028a\u0300a\u0300",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "MAMMALS",
+        "phonetic": "6.2.1 Rodents",
+        "category": null
+    },
+    {
+        "id": 1009,
+        "word": "mouse",
+        "phonetic": "\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 1010,
+        "word": "rat",
+        "phonetic": "o\u0300ki\u0301si\u0300",
+        "category": null
+    },
+    {
+        "id": 1017,
+        "word": "squirrel",
+        "phonetic": "\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 163,
+        "word": "6.3",
+        "phonetic": "BIRDS",
+        "category": null
+    },
+    {
+        "id": 1041,
+        "word": "bird",
+        "phonetic": "\u00e6\u0300bo\u0301bi\u0300",
+        "category": null
+    },
+    {
+        "id": 1056,
+        "word": "hawk",
+        "phonetic": "a\u0300kpa\u0301l\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 1057,
+        "word": "vulture",
+        "phonetic": "\u02a5o\u0300bi\u0301ni\u0300",
+        "category": null
+    },
+    {
+        "id": 1058,
+        "word": "feather",
+        "phonetic": "n\u0300t\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 1066,
+        "word": "egg",
+        "phonetic": "b\u028a\u0300n\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Bird",
+        "phonetic": "actions",
+        "category": null
+    },
+    {
+        "id": 1071,
+        "word": "fly",
+        "phonetic": "(v) fu\u0300ri\u0300\u02a8i\u0301",
+        "category": null
+    },
+    {
+        "id": 1080,
+        "word": "lay",
+        "phonetic": "(eggs) tu\u0300 (b\u028a\u0300n\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 1082,
+        "word": "hatch",
+        "phonetic": "bo\u0300li\u0301 (b\u028a\u0300n\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 4,
+        "word": "FISH",
+        "phonetic": "1083 fish n\u0300\u02a8u\u0301de\u0301 o\u0300ni\u0301",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Fish",
+        "phonetic": "parts",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Shellfish",
+        "phonetic": "and mollusks",
+        "category": null
+    },
+    {
+        "id": 1091,
+        "word": "crab",
+        "phonetic": "\u0254\u0300k\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 1092,
+        "word": "shrimp",
+        "phonetic": "\u025b\u0300sa\u0301",
+        "category": null
+    },
+    {
+        "id": 1094,
+        "word": "snail",
+        "phonetic": "\u00e6\u0301bi\u0302",
+        "category": null
+    },
+    {
+        "id": 5,
+        "word": "REPTILES",
+        "phonetic": "1095 snake \u0254\u0300w\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 1100,
+        "word": "lizard",
+        "phonetic": "o\u0300ki\u0301ti\u0300",
+        "category": null
+    },
+    {
+        "id": 1102,
+        "word": "chameleon",
+        "phonetic": "\u00e6\u0300wu\u0301ri\u0301du\u0300",
+        "category": null
+    },
+    {
+        "id": 164,
+        "word": "1106",
+        "phonetic": "frog kp\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 6,
+        "word": "INSECTS",
+        "phonetic": "1122 cockroach a\u0300kpa\u0301kp\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 1123,
+        "word": "ant",
+        "phonetic": "n\u0300tu\u0301ro\u0301tu\u0300ro\u0303mi\u0303",
+        "category": null
+    },
+    {
+        "id": 1127,
+        "word": "spider",
+        "phonetic": "a\u0300na\u0301ns\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Flying",
+        "phonetic": "insects",
+        "category": null
+    },
+    {
+        "id": 1142,
+        "word": "mosquito",
+        "phonetic": "n\u0300t\u028a\u0301mt\u028a\u0300m",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Insect",
+        "phonetic": "things",
+        "category": null
+    },
+    {
+        "id": 1156,
+        "word": "honey",
+        "phonetic": "a\u0300k\u0254\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "TYPES",
+        "phonetic": "OF PLANTS",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Trees",
+        "phonetic": "1158 tree \u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 1168,
+        "word": "oil",
+        "phonetic": "palm \u025b\u0300b\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Grasses",
+        "phonetic": "1173 grass \u026a\u0300s\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 1174,
+        "word": "bamboo",
+        "phonetic": "k\u00e6\u0300mpu\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "PLANT",
+        "phonetic": "PARTS",
+        "category": null
+    },
+    {
+        "id": 1188,
+        "word": "flower",
+        "phonetic": "n\u0300hw",
+        "category": null
+    },
+    {
+        "id": 165,
+        "word": "7.3",
+        "phonetic": "PLANT PRODUCTS",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Plant",
+        "phonetic": "product parts",
+        "category": null
+    },
+    {
+        "id": 1197,
+        "word": "juice",
+        "phonetic": "\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 1202,
+        "word": "seed",
+        "phonetic": "\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Fruits",
+        "phonetic": "1207 fruit e\u0300bi\u0301",
+        "category": null
+    },
+    {
+        "id": 1208,
+        "word": "banana",
+        "phonetic": "kw\u00e6\u030c:du\u0300",
+        "category": null
+    },
+    {
+        "id": 1209,
+        "word": "plantain",
+        "phonetic": "o\u0300bu\u0301ro\u0301\u02a5o\u0300",
+        "category": null
+    },
+    {
+        "id": 1211,
+        "word": "orange",
+        "phonetic": "\u00e6\u0300ku\u0301tu\u0300",
+        "category": null
+    },
+    {
+        "id": 1213,
+        "word": "pawpaw,",
+        "phonetic": "papaya \u00e6\u0300du\u0301w\u00e6\u0300",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "NATURE",
+        "phonetic": "8.1.2 Physical features",
+        "category": null
+    },
+    {
+        "id": 1262,
+        "word": "mountain",
+        "phonetic": "b\u0254\u0301",
+        "category": null
+    },
+    {
+        "id": 1268,
+        "word": "hole",
+        "phonetic": "ku\u0301",
+        "category": null
+    },
+    {
+        "id": 4,
+        "word": "Water",
+        "phonetic": "related",
+        "category": null
+    },
+    {
+        "id": 1284,
+        "word": "water",
+        "phonetic": "n\u0300\u02a8u\u0301",
+        "category": null
+    },
+    {
+        "id": 5,
+        "word": "Fire",
+        "phonetic": "related",
+        "category": null
+    },
+    {
+        "id": 1305,
+        "word": "fire",
+        "phonetic": "\u00e6\u0300\u02a5e\u0301",
+        "category": null
+    },
+    {
+        "id": 1308,
+        "word": "smoke",
+        "phonetic": "\u00e6\u0300\u02a5e\u0301si\u0300",
+        "category": null
+    },
+    {
+        "id": 1310,
+        "word": "firewood",
+        "phonetic": "n\u0300\u02a5e\u0301bi\u0300",
+        "category": null
+    },
+    {
+        "id": 1311,
+        "word": "charcoal",
+        "phonetic": "e\u0300du\u0300du\u030c:",
+        "category": null
+    },
+    {
+        "id": 166,
+        "word": "8.1.6",
+        "phonetic": "Sky",
+        "category": null
+    },
+    {
+        "id": 1313,
+        "word": "sky",
+        "phonetic": "e\u0300fu\u0303nde\u0300",
+        "category": null
+    },
+    {
+        "id": 1316,
+        "word": "rainbow",
+        "phonetic": "\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 1317,
+        "word": "sun",
+        "phonetic": "\u00e6\u0300wi\u0301",
+        "category": null
+    },
+    {
+        "id": 1318,
+        "word": "moon",
+        "phonetic": "a\u0300f\u026a\u0301nt\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "WEATHER",
+        "phonetic": "1330 wind (n) e\u0300fu\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "Ambient",
+        "phonetic": "Conditions",
+        "category": null
+    },
+    {
+        "id": 1348,
+        "word": "sunshine",
+        "phonetic": "\u00e6\u0300wi\u0301 \u025b\u030c:fa\u0300",
+        "category": null
+    },
+    {
+        "id": 1349,
+        "word": "moonlight",
+        "phonetic": "a\u0300f\u026a\u0301nt\u026a\u0300\u025b\u030c:wa\u0301\u02a8\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "TIME",
+        "phonetic": "1352 time b\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "Time",
+        "phonetic": "periods",
+        "category": null
+    },
+    {
+        "id": 1367,
+        "word": "day",
+        "phonetic": "n\u0300\u02a8\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 1368,
+        "word": "month",
+        "phonetic": "a\u0300f\u026a\u0301nt\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 1369,
+        "word": "year",
+        "phonetic": "\u00e6\u0300fi\u0301\u00e6\u0301n\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 1370,
+        "word": "today",
+        "phonetic": "n\u0300d\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 1371,
+        "word": "yesterday",
+        "phonetic": "\u026a\u0300\u0272\u026a\u0303",
+        "category": null
+    },
+    {
+        "id": 1372,
+        "word": "day",
+        "phonetic": "before yesterday \u026a\u0300n\u026a\u0303",
+        "category": null
+    },
+    {
+        "id": 1373,
+        "word": "tomorrow",
+        "phonetic": "a\u0301\u02a8\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 1374,
+        "word": "day",
+        "phonetic": "after tomorrow a\u0301\u02a8\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 1375,
+        "word": "olden",
+        "phonetic": "times t\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 167,
+        "word": "8.3.2",
+        "phonetic": "Times of the day",
+        "category": null
+    },
+    {
+        "id": 137,
+        "word": "dawn",
+        "phonetic": "(before sunrise) d\u026a\u0300ba\u030c:\u02a8\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 1378,
+        "word": "morning",
+        "phonetic": "\u00e6\u0300\u0272e\u0301ti\u0300",
+        "category": null
+    },
+    {
+        "id": 1379,
+        "word": "noon",
+        "phonetic": "a\u0300h\u025b\u0301d\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 1380,
+        "word": "afternoon",
+        "phonetic": "a\u0300h\u025b\u0301d\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 1381,
+        "word": "sunset",
+        "phonetic": "a\u0300d\u026a\u0301d\u026a\u0300a\u0300n\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 1384,
+        "word": "night",
+        "phonetic": "\u00e6\u0301\u0272i\u030c",
+        "category": null
+    },
+    {
+        "id": 4,
+        "word": "SPACE",
+        "phonetic": "AND OBJECTS",
+        "category": null
+    },
+    {
+        "id": 1389,
+        "word": "front",
+        "phonetic": "(of something) \u025b\u0300s\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 1390,
+        "word": "back",
+        "phonetic": "(of something) a\u0300m\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "MOVEMENT",
+        "phonetic": "(MOSTLY INTRANSITIVE)",
+        "category": null
+    },
+    {
+        "id": 1399,
+        "word": "come",
+        "phonetic": "b\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 1400,
+        "word": "go",
+        "phonetic": "\u0272e\u0300",
+        "category": null
+    },
+    {
+        "id": 1402,
+        "word": "arrive",
+        "phonetic": "b\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 1403,
+        "word": "remain,",
+        "phonetic": "stay k\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 1407,
+        "word": "enter,",
+        "phonetic": "go in \u0272e\u0300 d\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "ACTIONS,",
+        "phonetic": "EVENTS AFFECTING MATTER",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "General",
+        "phonetic": "1422 take \u02a8u\u0300",
+        "category": null
+    },
+    {
+        "id": 1434,
+        "word": "pull",
+        "phonetic": "so\u0300bi\u0301",
+        "category": null
+    },
+    {
+        "id": 1435,
+        "word": "drag",
+        "phonetic": "so\u0300bi\u0301",
+        "category": null
+    },
+    {
+        "id": 1436,
+        "word": "push",
+        "phonetic": "pi\u0300a\u0301",
+        "category": null
+    },
+    {
+        "id": 168,
+        "word": "9.2.2",
+        "phonetic": "Percussion",
+        "category": null
+    },
+    {
+        "id": 1447,
+        "word": "beat",
+        "phonetic": "b\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "Creation",
+        "phonetic": "and destruction",
+        "category": null
+    },
+    {
+        "id": 1458,
+        "word": "create,",
+        "phonetic": "make l\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 1461,
+        "word": "destroy,",
+        "phonetic": "spoil s\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 4,
+        "word": "Association",
+        "phonetic": "of things",
+        "category": null
+    },
+    {
+        "id": 1465,
+        "word": "gather",
+        "phonetic": "b\u028a\u0300a\u0301 a\u0300n\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 1467,
+        "word": "scatter",
+        "phonetic": "(tr) w\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 1468,
+        "word": "throw",
+        "phonetic": "away, get rid of tu\u0300 \u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 5,
+        "word": "Placement",
+        "phonetic": "1470 leave (something somewhere) si\u0342\u0300/si\u0342\u0300 o\u0300tu\u0301/si\u0342\u0300 n\u0300de\u0300",
+        "category": null
+    },
+    {
+        "id": 1472,
+        "word": "hide",
+        "phonetic": "(tr) kp\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 1474,
+        "word": "look",
+        "phonetic": "for \u02a5a\u0300\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 7,
+        "word": "Action",
+        "phonetic": "with liquids",
+        "category": null
+    },
+    {
+        "id": 1480,
+        "word": "flow",
+        "phonetic": "e\u030c:\u02a8e\u0300",
+        "category": null
+    },
+    {
+        "id": 10,
+        "word": "QUALITY",
+        "phonetic": "10.3 COLOUR",
+        "category": null
+    },
+    {
+        "id": 1555,
+        "word": "(be)",
+        "phonetic": "white fi\u0300ta\u030c:",
+        "category": null
+    },
+    {
+        "id": 1556,
+        "word": "(be)",
+        "phonetic": "black tu\u030c:",
+        "category": null
+    },
+    {
+        "id": 1557,
+        "word": "(be)",
+        "phonetic": "red k\u0254\u030c:",
+        "category": null
+    },
+    {
+        "id": 169,
+        "word": "11",
+        "phonetic": "QUANTITY",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "CARDINAL",
+        "phonetic": "NUMBERS",
+        "category": null
+    },
+    {
+        "id": 1590,
+        "word": "one",
+        "phonetic": "(1) a\u0300k\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 1591,
+        "word": "two",
+        "phonetic": "(2) \u0272\u0254\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 1592,
+        "word": "three",
+        "phonetic": "(3) sa\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 1593,
+        "word": "four",
+        "phonetic": "(4) n\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 1594,
+        "word": "five",
+        "phonetic": "(5) ni\u0303",
+        "category": null
+    },
+    {
+        "id": 1595,
+        "word": "six",
+        "phonetic": "(6) si\u0303",
+        "category": null
+    },
+    {
+        "id": 1596,
+        "word": "seven",
+        "phonetic": "(7) su\u0303",
+        "category": null
+    },
+    {
+        "id": 1597,
+        "word": "eight",
+        "phonetic": "(8) \u02a8",
+        "category": null
+    },
+    {
+        "id": 1598,
+        "word": "nine",
+        "phonetic": "(9) kp\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 1599,
+        "word": "ten",
+        "phonetic": "(10) i\u0300du\u0301",
+        "category": null
+    },
+    {
+        "id": 1600,
+        "word": "eleven",
+        "phonetic": "(11) i\u0300du\u0301 a\u0300k\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 1601,
+        "word": "twelve",
+        "phonetic": "(12) i\u0300du\u0301 \u0272\u0254\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 1602,
+        "word": "thirteen",
+        "phonetic": "(13) i\u0300du\u0301 sa\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 1603,
+        "word": "fourteen",
+        "phonetic": "(14) i\u0300du\u0301 n\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 1604,
+        "word": "fifteen",
+        "phonetic": "(15) i\u0300du\u0301 ni\u0303",
+        "category": null
+    },
+    {
+        "id": 1605,
+        "word": "sixteen",
+        "phonetic": "(16) i\u0300du\u0301 si\u0303",
+        "category": null
+    },
+    {
+        "id": 1606,
+        "word": "seventeen",
+        "phonetic": "(17) i\u0300du\u0301 su\u0300n\u0254\u0303",
+        "category": null
+    },
+    {
+        "id": 1607,
+        "word": "eighteen",
+        "phonetic": "(18) i\u0300du\u0301 \u02a8w",
+        "category": null
+    },
+    {
+        "id": 1608,
+        "word": "nineteen",
+        "phonetic": "(19) i\u0300du\u0301 kp\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 1609,
+        "word": "twenty",
+        "phonetic": "(20) e\u0300do\u0301\u0272\u0254\u0303",
+        "category": null
+    },
+    {
+        "id": 1610,
+        "word": "twenty-one",
+        "phonetic": "(21) e\u0300do\u0301\u0272\u0254\u0303",
+        "category": null
+    },
+    {
+        "id": 1611,
+        "word": "twenty-two",
+        "phonetic": "(22) e\u0300do\u0301\u0272\u0254\u0303",
+        "category": null
+    },
+    {
+        "id": 1612,
+        "word": "thirty",
+        "phonetic": "(30) e\u0300du\u0301\u025b\u0301sa\u0342\u0300",
+        "category": null
+    },
+    {
+        "id": 1613,
+        "word": "forty",
+        "phonetic": "(40) e\u0300du\u0301\u025b\u0301n\u025b\u0303",
+        "category": null
+    },
+    {
+        "id": 1614,
+        "word": "fifty",
+        "phonetic": "(50) e\u0300du\u0301e\u0301ni\u0303",
+        "category": null
+    },
+    {
+        "id": 170,
+        "word": "1615",
+        "phonetic": "sixty (60) e\u0300du\u0301e\u0301si\u0300\u025b\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 1616,
+        "word": "seventy",
+        "phonetic": "(70) e\u0300du\u0301e\u0301su\u0300n\u0254\u0342\u0301",
+        "category": null
+    },
+    {
+        "id": 1617,
+        "word": "eighty",
+        "phonetic": "(80) e\u0300du\u0301e\u0301\u02a8w",
+        "category": null
+    },
+    {
+        "id": 1618,
+        "word": "ninety",
+        "phonetic": "(90) e\u0300du\u0301e\u0301kp\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 1619,
+        "word": "hundred",
+        "phonetic": "(100) \u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 1620,
+        "word": "two",
+        "phonetic": "hundred (200) \u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 1621,
+        "word": "five",
+        "phonetic": "hundred (500) \u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 1622,
+        "word": "thousand",
+        "phonetic": "(1000) \u00e6\u0300kpe\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "ORDINAL",
+        "phonetic": "NUMBERS",
+        "category": null
+    },
+    {
+        "id": 1623,
+        "word": "(be)",
+        "phonetic": "first \u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 1624,
+        "word": "(be)",
+        "phonetic": "second \u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 1625,
+        "word": "(be)",
+        "phonetic": "third \u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 1626,
+        "word": "(be)",
+        "phonetic": "last \u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 12,
+        "word": "GRAMMATICAL",
+        "phonetic": "ITEMS",
+        "category": null
+    },
+    {
+        "id": 1,
+        "word": "PRONOUNS",
+        "phonetic": "1648 I m\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 1649,
+        "word": "you",
+        "phonetic": "(masc., sing.) w\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 1650,
+        "word": "he",
+        "phonetic": "(human) m\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 1651,
+        "word": "we",
+        "phonetic": "(incl.) \u025b\u0300n\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 1652,
+        "word": "you",
+        "phonetic": "(pl) \u025b\u0301n\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 1653,
+        "word": "they",
+        "phonetic": "(human) \u025b\u0300m\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 2,
+        "word": "RELATIONALS",
+        "phonetic": "1654 here do\u0301",
+        "category": null
+    },
+    {
+        "id": 1655,
+        "word": "there",
+        "phonetic": "da\u0301",
+        "category": null
+    },
+    {
+        "id": 171,
+        "word": "1656",
+        "phonetic": "far n\u0254\u030c:n\u0254\u0300",
+        "category": null
+    },
+    {
+        "id": 1657,
+        "word": "near",
+        "phonetic": "b\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 1670,
+        "word": "in",
+        "phonetic": "front of, before \u025b\u0300s\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 1671,
+        "word": "behind",
+        "phonetic": "a\u0300m\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 1673,
+        "word": "inside",
+        "phonetic": "d\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 1674,
+        "word": "outside",
+        "phonetic": "a\u0300fa\u030c:n\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 1675,
+        "word": "between",
+        "phonetic": "n\u0300s\u026a\u0301n\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 1678,
+        "word": "with",
+        "phonetic": "n\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 3,
+        "word": "DEMONSTRATIVE",
+        "phonetic": "ARTICLES",
+        "category": null
+    },
+    {
+        "id": 1679,
+        "word": "this",
+        "phonetic": "(man) m\u0254\u0303",
+        "category": null
+    },
+    {
+        "id": 1680,
+        "word": "that",
+        "phonetic": "(man) ma\u030c:m\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 1681,
+        "word": "some",
+        "phonetic": "(men) \u025b\u0300s\u0254\u0301k\u028a\u0300",
+        "category": null
+    },
+    {
+        "id": 1682,
+        "word": "other",
+        "phonetic": "(men) n\u0300ka\u0301\u026a\u0300",
+        "category": null
+    },
+    {
+        "id": 4,
+        "word": "QUESTION",
+        "phonetic": "WORDS",
+        "category": null
+    },
+    {
+        "id": 1683,
+        "word": "who?",
+        "phonetic": "a\u0300n\u026a\u0301",
+        "category": null
+    },
+    {
+        "id": 1684,
+        "word": "what?",
+        "phonetic": "m\u025b\u0300n\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 1685,
+        "word": "which?",
+        "phonetic": "(one)? d\u025b\u030c:l\u025b\u0301b\u0254\u0302/\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 1686,
+        "word": "where?",
+        "phonetic": "\u0254\u0300n\u028a\u0301",
+        "category": null
+    },
+    {
+        "id": 1687,
+        "word": "when?",
+        "phonetic": "m\u025b\u0300n\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 1688,
+        "word": "why?",
+        "phonetic": "m\u025b\u030c:b\u025b\u0300",
+        "category": null
+    },
+    {
+        "id": 1689,
+        "word": "how?",
+        "phonetic": "m\u025b\u0300n\u025b\u0301 a\u0300kp\u025b\u0301",
+        "category": null
+    },
+    {
+        "id": 1690,
+        "word": "how",
+        "phonetic": "many? \u025b\u0300b\u025b\u0301n\u026a\u0300",
+        "category": null
+    }
+]

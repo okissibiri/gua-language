@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Word Pronunciation Recorder</title>
+</head>
+<body>
+  <h1>Word Pronunciation Recorder</h1>
+  <div id="word-list"></div>
+  <script>
+    let words = [
+    //   { id: 1, word: 'Hello', phonetic: 'həˈloʊ', translation: 'Hola' },
+    //   { id: 2, word: 'World', phonetic: 'wɜrld', translation: 'Mundo' }
+    ];
+
+    function display(_words) {
+        // yucky global
+        words = _words;
+        const wordListDiv = document.getElementById('word-list');
+        words.forEach(({ id, word, phonetic, translation }) => {
+        const wordDiv = document.createElement('div');
+        wordDiv.innerHTML = `<strong>${word}</strong> [${phonetic}] (${translation})
+            <button onclick="startRecording(${id})">Record</button>`;
+        wordListDiv.appendChild(wordDiv);
+        });
+    }
+
+    display(words);
+
+    fetch('/words.json')
+      .then((res) => res.json())
+      .then(display)
+      .catch(console.error);
+
+    let stream; // Declare the stream variable
+
+    const startRecording = async (wordId) => {
+      // Request microphone access if stream is not already initialized
+      if (!stream) {
+        try {
+          stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        } catch (err) {
+          console.error('Error accessing microphone:', err);
+          alert('Microphone access is required to record audio.');
+          return;
+        }
+      }
+
+      const recorder = new MediaRecorder(stream);
+    //   const recorder = new MediaRecorder(stream, { mimeType: 'audio/webm' });
+      console.log(recorder.mimeType); // audio/ogg; codecs=opus
+      const chunks = [];
+
+      recorder.ondataavailable = (e) => chunks.push(e.data);
+      recorder.onstop = () => {
+        const blob = new Blob(chunks, { type: 'audio/ogg' });
+        const formData = new FormData();
+        const word = words.find(({ id }) => id === wordId).word;
+
+        formData.append('audio', blob, `${wordId}.ogg`);
+        formData.append('wordId', wordId);
+        formData.append('word', word);
+
+        fetch(`/upload/${word}`, {
+          method: 'POST',
+          body: formData
+        })
+          .then((res) => res.text())
+          .then(console.log)
+          .catch(console.error);
+
+        const audioURL = URL.createObjectURL(blob);
+        const audio = new Audio(audioURL);
+        audio.play(); // Test playback immediately
+      };
+
+      recorder.start();
+      setTimeout(() => recorder.stop(), 2000); // Record for 3 seconds
+    };
+  </script>
+</body>
+</html>
